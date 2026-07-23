@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Levitatte | Visiting Cards</title>
+<link rel="icon" type="image/png" href="../images/logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#111;--dark:#1a1a1a;--char:#2d2d2d;--gold:#c9a84c;--gold-l:#d4b96a;
+    --paper:#f5f5f3;--silver:#b8b8b8;--gray:#8a8a8a;
+    --sans:'Inter',system-ui,sans-serif;--serif:'Playfair Display',Georgia,serif;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:#0d0d0d;color:#eee;font-family:var(--sans);line-height:1.6;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 1.5rem}
+  header{text-align:center;padding:5rem 1.5rem 3rem;background:radial-gradient(ellipse at 50% 0%,rgba(201,168,76,.10),transparent 60%)}
+  header img{width:88px;filter:drop-shadow(0 4px 24px rgba(201,168,76,.25))}
+  header h1{font-family:var(--sans);font-weight:800;letter-spacing:.34em;font-size:1.7rem;color:#fff;margin:1.1rem 0 .3rem}
+  header .sub{color:var(--gold);letter-spacing:.42em;font-size:.62rem;font-weight:600}
+  header .title{font-family:var(--serif);font-style:italic;color:var(--silver);font-size:1.15rem;margin-top:1.4rem}
+  header .person{color:var(--gray);font-size:.85rem;margin-top:.4rem}
+  .spec{max-width:760px;margin:2.4rem auto 0;border:1px solid rgba(201,168,76,.28);border-radius:10px;
+        padding:1.1rem 1.4rem;display:flex;flex-wrap:wrap;gap:.7rem 2rem;justify-content:center;font-size:.78rem;color:var(--silver)}
+  .spec b{color:var(--gold-l);font-weight:600}
+  .grid{padding:3rem 0 5rem}
+  .card{margin-bottom:3.4rem}
+  .card-head{display:flex;align-items:baseline;gap:.8rem;margin-bottom:1rem;border-bottom:1px solid rgba(255,255,255,.08);padding-bottom:.6rem}
+  .card-head .no{font-family:var(--serif);color:var(--gold);font-size:1.1rem}
+  .card-head h2{font-family:var(--serif);font-weight:600;font-size:1.25rem;color:#fff}
+  .card-head p{color:var(--gray);font-size:.8rem;margin-left:auto;text-align:right}
+  .sides{display:grid;grid-template-columns:1fr 1fr;gap:1.4rem}
+  .side{background:#151515;border:1px solid rgba(255,255,255,.06);border-radius:10px;overflow:hidden}
+  .side .lbl{font-size:.62rem;letter-spacing:.22em;text-transform:uppercase;color:var(--gray);padding:.7rem 1rem .2rem}
+  .side img{display:block;width:100%;height:auto;background:#222}
+  .dl{display:flex;gap:.5rem;padding:.7rem 1rem 1rem;flex-wrap:wrap}
+  .dl a{font-size:.68rem;letter-spacing:.08em;text-transform:uppercase;color:var(--gold-l);
+        border:1px solid rgba(201,168,76,.4);border-radius:5px;padding:.32rem .7rem;transition:.2s}
+  .dl a:hover{background:var(--gold);color:#111;border-color:var(--gold)}
+  .dl a.pdf{border-color:var(--gold);color:var(--gold)}
+  footer{text-align:center;color:var(--gray);font-size:.72rem;padding:2.5rem 1.5rem 4rem;border-top:1px solid rgba(255,255,255,.06)}
+  a{text-decoration:none;color:inherit}
+  @media(max-width:720px){.sides{grid-template-columns:1fr}.card-head p{display:none}}
+</style>
+</head>
+<body>
+<header>
+  <img src="../images/logo.png" alt="Levitatte">
+  <h1>LEVITATTE</h1>
+  <div class="sub">LEARNING &amp; DEVELOPMENT</div>
+  <div class="title">Visiting Cards &middot; Six Designs</div>
+  <div class="person">Kavitha Pillai &mdash; Managing Director &amp; Head of Training</div>
+  <div class="spec">
+    <span><b>Trim</b> 3.5 &times; 2 in (88.9 &times; 50.8 mm)</span>
+    <span><b>Bleed</b> 3&nbsp;mm all sides</span>
+    <span><b>Safe area</b> 3&nbsp;mm inside trim</span>
+    <span><b>Proofs</b> 300 DPI PNG</span>
+    <span><b>Print</b> vector PDF &amp; SVG</span>
+  </div>
+</header>
+
+<div class="wrap grid" id="grid"></div>
+
+<footer>
+  Print files: send the <b>PDF</b> (or <b>SVG</b>) to your printer &mdash; they are true vector at 3.5&times;2&nbsp;in with 3&nbsp;mm bleed.<br>
+  &copy; 2026 Levitatte Learning &amp; Development.
+</footer>
+
+<script>
+const DESIGNS = [
+  ["01-noir-gold","Noir &amp; Gold","Classic centered layout · deep black with a gold hairline"],
+  ["02-ivory-editorial","Ivory Editorial","Light, left-aligned · gold edge bar &amp; contact icons"],
+  ["03-gold-sidebar","Gold Sidebar","Split panel · brand block beside the details"],
+  ["04-portrait","Portrait","Personal card · founder headshot in a gold ring"],
+  ["05-minimal-mono","Minimal Mono","Typographic &amp; airy · light with a faint owl watermark"],
+  ["06-emblem-premium","Emblem Premium","Gold-framed · KP monogram on the reverse"],
+];
+const grid = document.getElementById('grid');
+DESIGNS.forEach(([slug,name,desc],i)=>{
+  const sides = ["front","back"].map(s=>`
+    <div class="side">
+      <div class="lbl">${s}</div>
+      <img loading="lazy" src="preview/${slug}-${s}.png" alt="${name} ${s}">
+      <div class="dl">
+        <a class="pdf" href="print/${slug}-${s}.pdf" download>PDF &darr;</a>
+        <a href="svg/${slug}-${s}.svg" download>SVG</a>
+        <a href="preview/${slug}-${s}.png" download>PNG</a>
+      </div>
+    </div>`).join("");
+  grid.insertAdjacentHTML('beforeend',`
+    <section class="card">
+      <div class="card-head">
+        <span class="no">${String(i+1).padStart(2,'0')}</span>
+        <h2>${name}</h2>
+        <p>${desc}</p>
+      </div>
+      <div class="sides">${sides}</div>
+    </section>`);
+});
+</script>
+</body>
+</html>
