@@ -1,0 +1,1912 @@
+{
+ "meta": {
+  "eyebrow": "LEARNING & DEVELOPMENT PROPOSAL",
+  "title_lines": [
+   "Transforming Hospital Teams.",
+   "Elevating Every Patient Experience."
+  ],
+  "subtitle": "A structured 90-day learning and development programme",
+  "client": "Dr. Rela Institute & Medical Centre",
+  "client_sub": "Chromepet, Chennai, Tamil Nadu",
+  "date": "AUGUST 2026",
+  "confidential": "Private and confidential. Prepared exclusively for the leadership of Dr. Rela Institute & Medical Centre.",
+  "contact_line": [
+   "LEVITATTE LEARNING & DEVELOPMENT     \u00b7     BENGALURU, KARNATAKA, INDIA",
+   "+91 7411 099 183     \u00b7     KAVITHA.PILLAI@LEVITATTE.COM     \u00b7     WWW.LEVITATTE.COM"
+  ],
+  "footer": "LEVITATTE LEARNING & DEVELOPMENT     \u00b7     PROPOSAL FOR DR. RELA INSTITUTE & MEDICAL CENTRE",
+  "descriptor": "END-TO-END LEARNING & DEVELOPMENT SOLUTIONS FOR HEALTHCARE ORGANISATIONS"
+ },
+ "sections": [
+  {
+   "id": "cover-letter",
+   "eyebrow": "COVERING LETTER",
+   "title": "A Note From Kavitha Pillai",
+   "blocks": [
+    {
+     "type": "subhead",
+     "text": "To the Leadership Team, Dr. Rela Institute & Medical Centre, #7, CLC Works Road, Chromepet, Chennai, Tamil Nadu 600 044"
+    },
+    {
+     "type": "para",
+     "text": "I am writing to propose a structured learning and development programme for the non-clinical and clinical-support teams at Rela Hospital. Levitatte Learning & Development works with organisations where the quality of a single human interaction carries the reputation of the whole institution. Hospitals are the clearest example of that, and they are the work we care most about."
+    },
+    {
+     "type": "para",
+     "text": "Your hospital's own published profile describes an institution of 450 beds across more than fifty disciplines. A campus of that shape means a patient and their family will pass through several hands in a single visit, often on a single day: a telephone enquiry, a registration counter, a department they have never visited before, a nurse, a billing desk, a discharge conversation. Clinical excellence can be concentrated in specialists. The experience of being cared for cannot. It is assembled, touchpoint by touchpoint, by whoever the patient happens to meet next. Consistency across those touchpoints is a capability, and it can be built."
+    },
+    {
+     "type": "para",
+     "text": "I have spent over twenty-five years in this field, in luxury service training, public relations, positive psychology research and personality development, with a Master in NLP and Organizational Behavioral Psychology. Our work has been trusted by organisations including Porsche, Accenture, Toyota, Jet Airways, Fortis, Cloud9 Hospitals, AEGON and RELIGARE. What we bring to a hospital is behavioural: communication, conduct, service standards, difficult conversations, supervision and internal training capability. What we do not bring, and will not claim, is clinical content. That remains with your own clinicians and authorised representatives, and we will build around them, not over them."
+    },
+    {
+     "type": "para",
+     "text": "The document that follows proposes a ninety-day engagement, running three sessions each week across roughly thirteen weeks, with thirty participants to a batch, together with the diagnosis, design, delivery, reinforcement and measurement work that surrounds it. The commercial terms are set out in full later in these pages. In preparing this we have worked only from your hospital's published profile and from what is generally true of large multispeciality campuses, which is precisely why the programme begins with a diagnosis rather than a classroom. I would welcome the opportunity to walk your team through this in person, to hear what you already know about your own floors, and to adjust the design in light of it before a single session is scheduled."
+    },
+    {
+     "type": "kv",
+     "rows": [
+      [
+       "Kavitha Pillai",
+       "Managing Director & Head of Training"
+      ],
+      [
+       "Levitatte Learning & Development",
+       "Empowering Individuals. Transforming Organizations."
+      ],
+      [
+       "Telephone",
+       "+91 7411 099 183"
+      ],
+      [
+       "Email",
+       "kavitha.pillai@levitatte.com"
+      ],
+      [
+       "Website",
+       "www.levitatte.com"
+      ],
+      [
+       "Office",
+       "Bengaluru, Karnataka, India"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "context",
+   "eyebrow": "THE CASE FOR THIS PROGRAMME",
+   "title": "Why This Matters",
+   "intro": "Every patient interaction shapes the reputation of a hospital. From the first telephone call and the registration experience through treatment coordination, billing and discharge, patients and their families expect clarity, compassion, professionalism and confidence. Those expectations are met, or missed, in ordinary moments.",
+   "blocks": [
+    {
+     "type": "para",
+     "text": "A family arriving at a hospital is rarely in a position to evaluate medicine. They cannot assess a surgical decision, interpret a report or judge a protocol. What they can assess, with great precision and long memory, is how they were treated while all of that was happening. Were they told what was going on. Was the person at the counter unhurried with them. Did anyone notice they had been waiting. Was the bill explained or simply handed over. These are the terms in which a hospital is described afterwards, to relatives, to neighbours, and increasingly in public."
+    },
+    {
+     "type": "pullquote",
+     "text": "A patient's family cannot audit a clinical decision. They can, and do, remember how they were spoken to while they waited for it."
+    },
+    {
+     "type": "para",
+     "text": "The larger point is where those minutes are actually spent. Across a full episode of care, the treating consultant is present for only some of the patient's time in the building. The rest belongs to reception and front office, patient relations, billing and administration, nursing and clinical-support personnel, housekeeping, and security. These are the people who hold the experience together, and they do so at moments the clinician never sees and cannot supervise. The impression they create is not a by-product of the care. For the family, it is the care."
+    },
+    {
+     "type": "para",
+     "text": "Consider where impressions are formed on an ordinary day:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "The first telephone call, before anyone has seen the building or met a doctor.",
+      "Registration, when a family is anxious and is being asked for documents and payment.",
+      "The wait, when nothing appears to be happening and nobody has explained why.",
+      "Departmental guidance, the walk from one floor to another, and whether the patient is accompanied or merely pointed.",
+      "The repeated bedside interactions with nursing and support staff, which set the emotional temperature of an admission.",
+      "The presence and manner of housekeeping and security staff, which establish the tone of a corridor before a word is exchanged.",
+      "The billing conversation, where a well-managed admission can still come apart.",
+      "Discharge, which is the last thing the family experiences and the first thing they will describe to others."
+     ],
+     "columns": [],
+     "rows": []
+    },
+    {
+     "type": "para",
+     "text": "None of these moments is difficult in isolation. Their accumulation is the reputation, and their inconsistency is what patients notice most. A family that is handled well at the entrance and poorly at billing does not average the two. They remember the failure, because that is the moment they felt unimportant."
+    },
+    {
+     "type": "para",
+     "text": "The encouraging part is that this capability is trainable. It is not temperament, and it is not something people either have or lack. Answering a telephone so the caller feels attended to is a skill. Explaining a delay without becoming defensive is a skill. Standing calmly while a distressed relative raises their voice, and bringing the temperature down rather than matching it, is a skill. Handing a patient from one department to another so they do not have to repeat their story is a skill, and it is largely a matter of agreed practice rather than personality. Each of these can be described, demonstrated, practised and observed."
+    },
+    {
+     "type": "para",
+     "text": "Where hospital service falls short, it is more often for structural reasons rather than for want of goodwill. Staff were never told, in concrete terms, what good looks like in their role. Nobody demonstrated it, so the standard remained an instruction rather than a behaviour. Supervisors were never equipped to observe and reinforce it, so it faded after any training. New joiners arrived into a standard that had never been written down, and learned instead by imitating whoever sat next to them. In that environment, sincere and hard-working people produce an inconsistent experience, and it is unfair to read that as an attitude problem."
+    },
+    {
+     "type": "para",
+     "text": "This is why we propose a structured programme rather than a motivational event. A single inspiring session lifts mood. It does not change habit, it does not survive a busy shift, and it leaves nothing behind that a supervisor can use on a Monday morning. What changes behaviour is sequence, repetition, practice against real hospital situations, reinforcement by the person who runs the department, and a written standard that outlives the people who were first taught it."
+    },
+    {
+     "type": "para",
+     "text": "The programme therefore begins with Diagnose, not with a classroom. We would rather spend the first weeks understanding your people, processes and service expectations, and presenting what we find to leadership, than arrive with a fixed syllabus and assume it fits."
+    }
+   ]
+  },
+  {
+   "id": "objectives",
+   "eyebrow": "PROGRAMME OBJECTIVES",
+   "title": "What This Programme Sets Out To Achieve",
+   "intro": "The following are the objectives the programme is designed to pursue. They are written to be observable, so that progress can be seen in assessments, floor observation and supervisory review rather than asserted in a report. They are objectives, not guarantees, and they depend as much on the hospital's reinforcement as on our facilitation.",
+   "blocks": [
+    {
+     "type": "numbered",
+     "items": [
+      "Establish a single, written standard of patient-facing conduct that every role can recognise, describe and demonstrate.",
+      "Equip frontline teams to handle the conversations that recur every day, including enquiry and appointment handling, registration, waiting-time communication, billing explanation and discharge, with clarity and composure.",
+      "Build the capability to hold an anxious, distressed or angry conversation without escalating it, and to recover service credibly when something has already gone wrong.",
+      "Strengthen inter-departmental coordination and handovers, so that a patient moving between departments is not required to repeat their story or chase their own information.",
+      "Prepare supervisors and department heads to set expectations, observe behaviour, coach individuals and reinforce the standard their teams have been taught, rather than only managing activity and rosters.",
+      "Develop a selected group of internal trainers to a defined starting competence, able to deliver the foundation modules and reinforce the curriculum within the hospital after the engagement concludes.",
+      "Leave the hospital with a documented and reusable body of work, including a standing induction track for new joiners and honest records of participation, assessment and observation, so that leadership can see where capability currently sits by department and by role."
+     ],
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": "scope-of-work",
+   "eyebrow": "SCOPE OF WORK",
+   "title": "What Levitatte Will Handle",
+   "intro": "Two pieces of work sit ahead of any training session and determine whether the rest of the programme is worth running. The first is finding out what actually needs to change. The second is deciding, role by role, who needs what. Both are our responsibility, and both are done with your people rather than to them.",
+   "blocks": [
+    {
+     "type": "subhead",
+     "text": "Training Needs Analysis"
+    },
+    {
+     "type": "para",
+     "text": "We begin by understanding the hospital's people, processes and service expectations. This is deliberately unglamorous work. It involves time on the floor at real hours, conversations with people who are mid-shift, and reading material that has already been written but not always acted upon. Training requirements are identified from the following sources:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Management discussions, to establish what leadership regards as non-negotiable and where it believes the patient experience is currently inconsistent.",
+      "Departmental inputs, gathered from heads and in-charges who know which conversations recur and exactly where they break down.",
+      "Employee observations, conducted on the floor and at busy hours rather than in a meeting room, because behaviour under pressure is the behaviour that matters.",
+      "Patient feedback, read for recurring themes rather than isolated incidents, and read across departments so that a pattern is not mistaken for a personality.",
+      "Complaints, including those already resolved, since a resolved complaint still records a moment at which the process failed a person.",
+      "Audit findings and quality-review observations, to the extent the hospital chooses to share them with us.",
+      "Performance gaps, where the expected standard for a role and its observed practice have drifted apart, whether through workload, unclear instruction or habit."
+     ],
+     "text": ""
+    },
+    {
+     "type": "para",
+     "text": "This produces two written outputs: a Training Needs Analysis report, and a competency and skill-gap framework that states the capabilities each role is expected to hold. Both are presented to leadership before module design is finalised. We would rather have a diagnosis corrected early than defend a curriculum later. Where the hospital already has policies, service standards and standard operating procedures, the design references them rather than duplicating or contradicting them, and any discrepancy we notice is raised with your team instead of quietly designed around."
+    },
+    {
+     "type": "subhead",
+     "text": "Competency and Role-Based Learning"
+    },
+    {
+     "type": "para",
+     "text": "Different hospital roles require different capabilities. A security officer at the entrance and a billing executive at discharge both shape the experience, but not with the same skills, not in the same conversations and not under the same pressures. Training that treats them identically wastes the time of both. The programme is therefore organised around eight role groups:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Front-office and reception teams, who create the first impression by telephone and at the entrance, often before anyone has met a clinician.",
+      "Patient relations teams, who hold the conversations that nobody else has the time to hold, and who are frequently the hospital's recovery mechanism.",
+      "Billing and administrative teams, who must explain money clearly and calmly to people whose attention is on health.",
+      "Nursing and clinical-support personnel, for the communication, empathy and conduct dimension of their work that sits alongside their clinical duties.",
+      "Housekeeping and facility teams, whose presence and manner establish the tone of every corridor, ward and room they enter.",
+      "Security personnel, who are often the first and the last person a family speaks to, and who meet people at their most agitated.",
+      "Supervisors and department heads, who determine whether a taught standard survives contact with a busy shift.",
+      "Managers and hospital leadership, who own the standard, fund it, model it and decide whether it endures."
+     ],
+     "text": ""
+    },
+    {
+     "type": "para",
+     "text": "Each programme is aligned with the employee's responsibilities and level of patient interaction. In practice this governs three things: which modules a group attends, which case material and simulations are used with them, and which takeaway job aids they keep at their desk or station afterwards. A registration counter rehearses a different scenario from a housekeeping team, using the same underlying principles. The detailed role-by-role mapping, including the capabilities gained and the tools each group retains, is set out later in this document."
+    },
+    {
+     "type": "para",
+     "text": "One boundary should be stated plainly rather than buried. Levitatte's work is behavioural, communicative, service-oriented and supervisory. We are not a clinical training provider, and we will not present ourselves as one. Where a module touches patient rights, confidentiality, safety awareness, escalation or any hospital policy, the content is prepared with your authorised representatives and subject-matter experts, and delivered in the form they approve."
+    },
+    {
+     "type": "callout",
+     "text": "Clinical, statutory and policy-specific training content will be developed or delivered in coordination with authorised hospital representatives and subject-matter experts."
+    }
+   ]
+  },
+  {
+   "id": "induction",
+   "eyebrow": "A PARALLEL STANDING TRACK",
+   "title": "New-Employee Induction",
+   "intro": "New-employee induction is part of this proposal, but it is deliberately not one of the thirteen weeks in the training calendar. It is built once during the Diagnose and Design stages, and then delivered to each new-joiner cohort as they arrive. It is a recurring parallel track that runs alongside the main programme and continues after it.",
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The reasoning is practical. New joiners do not arrive in a convenient batch in week four. They arrive continuously, in ones and twos, in whichever department happens to be recruiting. An induction placed inside the sequential calendar would serve only the people who happened to join that month and would be useless to everyone who joined after it. Built as a standing track, it serves every cohort indefinitely."
+    },
+    {
+     "type": "para",
+     "text": "Mechanically, we design induction as a packaged, repeatable module with a facilitator guide, participant material, a short assessment and a completion record. It is delivered by Levitatte to the cohorts that arrive during the engagement, and it is written so that it can be delivered afterwards by the hospital's own internally trained facilitators, at whatever cadence your human resources team sets. The content is agreed with your team before first delivery, and it helps new employees understand:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "The hospital's vision, mission and values, expressed in terms of what they mean at a counter or a bedside rather than as a statement on a wall.",
+      "Workplace culture and expected conduct, including what is encouraged and what is not tolerated, as defined by the hospital's own stated policy.",
+      "Patient rights and confidentiality, prepared with your authorised representatives, covering what a new employee may say, to whom, and in whose hearing.",
+      "Professional appearance and etiquette, so that grooming, uniform discipline and bearing are consistent from the first day rather than corrected in the third month.",
+      "Departmental responsibilities, including who does what, so a new joiner can direct a patient correctly instead of guessing.",
+      "Service and communication standards, with the specific phrases, greetings and handover practices the hospital expects.",
+      "Safety and emergency awareness, prepared and delivered with your subject-matter experts.",
+      "Internal escalation and reporting procedures, so that a new employee knows precisely who to inform, how quickly, and what not to attempt alone."
+     ],
+     "text": ""
+    },
+    {
+     "type": "para",
+     "text": "A structured induction helps employees become confident, connected and service-ready from the beginning. It also removes a quiet source of harm. Where induction is informal, a new joiner learns by watching whoever sits nearest, and inherits that person's habits, shortcuts and tone along with the job. The standard then drifts one hire at a time, invisibly, and nobody can point to the moment it changed."
+    },
+    {
+     "type": "para",
+     "text": "This matters more than it first appears, because frontline hospital roles everywhere see movement. Reception, housekeeping, security and administrative teams change composition over time, and a standard that lives only in the heads of the people who were trained leaves the building with them. Without a standing induction, a hospital that has invested in a full programme finds itself re-training rather than reinforcing, and paying twice for the same capability. With one, every new arrival enters at the standard instead of below it."
+    },
+    {
+     "type": "para",
+     "text": "The first week is also the point at which a person is most willing to be shaped. Expectations set on day one are accepted as the way things are done here. The same expectations introduced six months later are experienced as criticism. Induction is therefore among the least resisted interventions available to a hospital, and it is the piece of this programme with the longest useful life."
+    },
+    {
+     "type": "callout",
+     "text": "Induction is built once and delivered many times. Together with the Train-the-Trainer module, it is what allows the hospital to sustain the standard internally once the ninety-day engagement has concluded, rather than depending on an external provider to maintain it."
+    }
+   ]
+  },
+  {
+   "id": "sequencing-logic",
+   "eyebrow": "CURRICULUM ARCHITECTURE",
+   "title": "How The Programme Is Sequenced, And Why",
+   "intro": "Twelve modules and thirty-nine sessions can be arranged in a great many ways, and most of those arrangements fail quietly. They fail not because the content is wrong but because a capability was asked for before the capability it rests on had been built. The order proposed below is therefore not an administrative convenience. It is the argument of this proposal.",
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The spine runs in eight movements: awareness, then self, then tools, then inner capability, then application, then complexity, then sustainability, then multiplication. Each movement earns the right to the next. A participant who does not know what the hospital stands for cannot be held to a standard. A participant who has not learnt to listen cannot de-escalate. A supervisor who has not seen what their team was taught cannot coach it. The sequence simply respects that dependency, in the order in which real capability accumulates."
+    },
+    {
+     "type": "kv",
+     "rows": [
+      [
+       "Awareness",
+       "M1 Foundation & Orientation. Shared ground before any skill: what the hospital stands for, what a patient is entitled to, what conduct looks like, and where authority ends."
+      ],
+      [
+       "Self",
+       "M2 Professional Presence. How the individual presents before a word is spoken, treated as the patient's first evidence that the hospital is in order."
+      ],
+      [
+       "Tools",
+       "M3 Communication Fundamentals. The instrument through which every later module is delivered: speech, tone, non-verbal signal, active listening, telephone handling."
+      ],
+      [
+       "Inner capability",
+       "M4 Emotional Intelligence & Empathy. The internal work that makes composure possible and turns courtesy into something a patient believes."
+      ],
+      [
+       "Application",
+       "M5 Patient Experience & Service Standards and M6 The Patient Journey. The standard is first agreed, then walked along the patient's actual path, touchpoint by touchpoint."
+      ],
+      [
+       "Complexity",
+       "M7 Difficult Situations & Service Recovery. Distress, anger, difficult information, complaints and recovery, attempted only once the four capabilities above are in place."
+      ],
+      [
+       "Sustainability",
+       "M8 Personal Effectiveness & Resilience and M9 Teamwork & Inter-departmental Coordination. What allows the standard to be carried through a full shift, a full week, and across departmental boundaries."
+      ],
+      [
+       "Multiplication",
+       "M10 Leadership & Supervisory Development, M11 Train-the-Trainer and M12 Consolidation, Assessment & Management Review. The point at which the programme stops depending on Levitatte being in the room."
+      ]
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Read against the calendar, the shape is deliberate and it is clean. The first four weeks carry twelve sessions and complete the foundation, M1 to M4. The next six weeks carry eighteen sessions and hold the application and pressure work, M5 to M9. The final three weeks carry nine sessions of multiplication and close-out, M10 to M12. Within that middle block, M5, M6 and M7 together account for thirteen of the thirty-nine sessions, a full third of the programme spent on the standard, the journey and what happens when both are tested. That weighting is intentional. A hospital is not judged on its calm days."
+    },
+    {
+     "type": "subhead",
+     "text": "The three placements that decide whether the programme holds"
+    },
+    {
+     "type": "para",
+     "text": "Most of the sequence follows naturally from the spine. Three placements do not, and they are the ones we would defend most firmly, because each prevents a specific and recognisable failure."
+    },
+    {
+     "type": "subhead",
+     "text": "One. Professional presence is taught in Week 2, not late in the programme"
+    },
+    {
+     "type": "para",
+     "text": "A patient forms a judgement before anyone has spoken to them. They read the counter, the uniform, the hygiene, the bearing of the person who looks up, and whether that person looks up at all. Everything taught in M3 and M4 is delivered through a body and a presence that the patient has already assessed. Placing professional presence after the communication and empathy work asks staff to spend two months practising warm, precise language while the visible signals continue to contradict it."
+    },
+    {
+     "type": "para",
+     "text": "There is a second reason, and it is about the programme rather than the patient. M2 is the fastest visible win available. Grooming, appearance, punctuality and corridor conduct are the quickest to shift, and the change is legible to supervisors, to leadership and to families, without any measurement instrument at all. That early visible movement is what buys the programme its credibility for the harder and slower work that follows."
+    },
+    {
+     "type": "para",
+     "text": "The failure mode this prevents is the invisible programme. A behavioural curriculum that produces nothing observable in its first fortnight loses the belief of the floor, and it rarely recovers it. Attendance begins to be negotiated, supervisors start releasing staff reluctantly, and by the time the demanding modules arrive in Week 7 the room has quietly decided that this is a formality. Sequencing a visible win early is not presentation. It is what keeps the programme alive long enough to do its real work."
+    },
+    {
+     "type": "subhead",
+     "text": "Two. Difficult situations sit in Weeks 7 to 9, with resilience immediately after"
+    },
+    {
+     "type": "para",
+     "text": "Teaching complaint handling and de-escalation early is the most common design error in hospital behavioural training, and it does not hold. Every technique in M7 draws on something taught before it. De-escalation is active listening under load, which is M3. Remaining composed while an attendant raises their voice is self-regulation, which is M4. Service recovery is meaningless without an agreed standard to recover to, which is M5 and M6, because a staff member cannot restore a service level that was never made explicit."
+    },
+    {
+     "type": "para",
+     "text": "Taught first, M7 produces phrases. Participants leave with a set of remembered lines, and the lines work in the training room. They do not survive a distressed family at nine in the evening after a delayed procedure, because under genuine pressure people do not retrieve scripts, they fall back on capability. There is also a cost to confidence. Putting staff into aggression role plays before they have any regulation skill teaches them, quite efficiently, that they cannot handle these situations. That lesson is difficult to undo."
+    },
+    {
+     "type": "para",
+     "text": "The failure mode this prevents is the script that collapses under load, and its more damaging companion, learnt avoidance. In M7's proper position, the five sessions can be graded from mild to severe across Weeks 7, 8 and 9, so that confidence is built rather than tested."
+    },
+    {
+     "type": "para",
+     "text": "M8 then follows immediately, and that adjacency is equally deliberate. Resilience and compassion fatigue taught in Week 2 are abstract, and staff politely file them away because they do not yet feel the need. Taught in Week 9, directly after five sessions of distress, anger and difficult information, the same content lands on people who have just felt exactly what it addresses. M7 is what surfaces the strain, so M8 is placed where the strain is."
+    },
+    {
+     "type": "subhead",
+     "text": "Three. Supervisors follow the frontline, and internal trainers come last"
+    },
+    {
+     "type": "para",
+     "text": "M10 is delivered in Weeks 11 and 12, after the frontline curriculum is complete. A supervisor cannot coach a standard they have not seen taught. Trained ahead of their teams, supervisors spend their first coaching conversations on content the team has not yet received, and their feedback is heard as personal preference rather than as the hospital's standard. Trained afterwards, they are enforcing something their people were demonstrably taught, in language their people recognise, which is a different conversation entirely."
+    },
+    {
+     "type": "pullquote",
+     "text": "Trained staff returning to untrained supervisors regress. This ordering is what prevents that."
+    },
+    {
+     "type": "para",
+     "text": "The failure mode here is regression to the supervisor's standard. A well-trained frontline reporting to an untrained supervisor reverts, because the supervisor is the ceiling. Whatever the supervisor tolerates becomes the operating standard, regardless of what was taught. This is a familiar reason hospital behavioural programmes appear to work and then fade, and it is a sequencing problem before it is anything else."
+    },
+    {
+     "type": "para",
+     "text": "M11 is placed last, in Weeks 12 and 13, for a related reason. The internal trainers are selected from participants who have already completed the curriculum they will go on to carry. A trainer who has not been through the programme teaches the material. A trainer who has been through it teaches the standard, and can answer the question that decides credibility in the room: what do you do when it actually happens. The failure mode prevented is dilution at the second generation, where each internal retelling loses a little fidelity until the induction that new joiners receive bears only a family resemblance to what was designed."
+    },
+    {
+     "type": "para",
+     "text": "Week 12 is therefore a deliberate overlap. The supervisory batch completes M10 while the selected internal-trainer batch begins M11, so that the handover of responsibility happens inside the engagement rather than after it. M12 closes the programme with assessment, consolidation and the management review, at the point where there is a complete evidence base to review."
+    },
+    {
+     "type": "table",
+     "columns": [
+      "Placement",
+      "Failure mode it prevents"
+     ],
+     "rows": [
+      [
+       "M2 Professional Presence early, in Week 2",
+       "The invisible programme. No observable change in the first fortnight, followed by loss of floor credibility, negotiated attendance and a sceptical room by Week 7."
+      ],
+      [
+       "M7 Difficult Situations late, in Weeks 7 to 9, with M8 immediately after",
+       "The script that collapses under load, and learnt avoidance. Remembered phrases that fail under genuine pressure, plus staff who conclude early that these situations are beyond them. Resilience taught before the strain is felt is filed away unused."
+      ],
+      [
+       "M10 Supervisors after the frontline, M11 Train-the-Trainer last",
+       "Regression to the supervisor's standard, and dilution at the second generation. Trained staff reverting to whatever their untrained supervisor tolerates, and internal trainers carrying the material rather than the standard."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "curriculum",
+   "eyebrow": "SCOPE OF LEARNING",
+   "title": "The Twelve Modules",
+   "intro": "The curriculum comprises twelve modules delivered across thirty-nine sessions of four hours each, thirty-nine being the planning basis for a ninety-day window that yields between thirty-six and thirty-nine sessions depending on the start date and hospital holidays. Session counts are allocated by weight rather than evenly: the modules that carry the most operational risk, M7 with five sessions and M3, M5, M6 and M10 with four each, receive the most time. Every module is customised during the Design stage against the hospital's own policies, standard operating procedures and service expectations, so the descriptions below set out scope and intent rather than a fixed script.",
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Module content is built from the Training Needs Analysis findings and the hospital's existing documentation, and reviewed with the hospital before delivery begins. Where a module touches on matters that are the hospital's own to define, the boundary is explicit and is observed throughout the engagement."
+    },
+    {
+     "type": "callout",
+     "text": "Clinical, statutory and policy-specific training content will be developed or delivered in coordination with authorised hospital representatives and subject-matter experts."
+    },
+    {
+     "type": "subhead",
+     "text": "M1 \u00b7 Foundation & Orientation"
+    },
+    {
+     "type": "para",
+     "text": "The programme opens with three sessions that place every participant on the same ground. Before any skill is introduced, each person should be able to state what the hospital stands for, what a patient is entitled to, how conduct is expected to look, and what to do when a situation exceeds their authority. The material covering patient rights, safety awareness and escalation is prepared with the hospital's authorised representatives, since it must match hospital policy precisely. What changes is that staff stop improvising a personal version of the standard, which is the quiet source of most inconsistency a patient encounters.",
+     "items": []
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "The hospital's vision, mission and values, translated into what they require of a person at a counter or a bedside",
+      "Patient rights and confidentiality, including the everyday situations in which confidentiality is most easily lost",
+      "Workplace culture and expected conduct, in front of patients, attendants and colleagues",
+      "Safety and emergency awareness at the level of behavioural readiness, with procedure and correct response defined by the hospital's authorised representatives",
+      "Internal escalation and reporting procedures, and the discipline of escalating early rather than late"
+     ]
+    },
+    {
+     "type": "subhead",
+     "text": "M2 \u00b7 Professional Presence"
+    },
+    {
+     "type": "para",
+     "text": "Two sessions on the signals a patient reads before anyone has spoken. Appearance, hygiene, bearing and punctuality are treated not as matters of vanity but as the first evidence a family has that the hospital is in order. The change is visible early, at the counter and along the corridor, which is precisely why this module sits early in the sequence."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Grooming and personal appearance standards, defined per role and shift rather than in the abstract",
+      "Hygiene as both a professional obligation and a source of patient confidence",
+      "Workplace etiquette in shared and semi-public spaces, including corridors, lifts and waiting areas",
+      "Punctuality, shift readiness and the handover of a counter or station in a presentable state",
+      "Conduct within sight and earshot of patients and attendants, including conversation and mobile-phone use"
+     ]
+    },
+    {
+     "type": "subhead",
+     "text": "M3 \u00b7 Communication Fundamentals"
+    },
+    {
+     "type": "para",
+     "text": "Four sessions, one of the largest allocations in the programme, because almost everything that follows is delivered through speech. Participants work on what they say, how it sounds, and what their body communicates alongside it, and they practise listening as an active discipline rather than as a pause before replying. Telephone handling is treated separately, since a caller has nothing but the voice to judge by. What changes is precision: fewer repeated explanations, fewer assumptions, and fewer patients who leave a counter unsure of what they were just told."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Verbal and non-verbal communication, and the cost of a mismatch between the two",
+      "Tone, pace and clarity, including how to explain a process without institutional vocabulary",
+      "Active listening, checking understanding, and confirming rather than assuming",
+      "Telephone etiquette from greeting to close, including holds, transfers and call-backs",
+      "Explaining the same information to a patient and to an anxious attendant, who need it differently"
+     ]
+    },
+    {
+     "type": "subhead",
+     "text": "M4 \u00b7 Emotional Intelligence & Empathy"
+    },
+    {
+     "type": "para",
+     "text": "Three sessions on the internal work that makes composure possible. Participants learn to notice their own state before it governs their behaviour, to regulate it under pressure, and to read the emotional state of the person in front of them accurately rather than by assumption. Dignity and privacy are handled here as practical behaviours in a corridor, at a bedside and within earshot of others, rather than as principles on a wall. What changes is that courtesy becomes something a patient believes, because it is no longer being performed over the top of visible irritation."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Self-awareness, including recognising one's own early signs of frustration or fatigue",
+      "Self-regulation under pressure, with techniques drawn from Levitatte's NLP practice",
+      "Reading another person's emotional state, and distinguishing anger from fear",
+      "Compassionate communication, including what to say when there is nothing helpful to say",
+      "Protecting patient dignity and privacy in practice, in shared and open hospital spaces"
+     ]
+    },
+    {
+     "type": "subhead",
+     "text": "M5 \u00b7 Patient Experience & Service Standards"
+    },
+    {
+     "type": "para",
+     "text": "Four sessions that convert good intent into an agreed standard. The hospital's service expectations are made explicit and practised, so that a patient's experience does not depend on which member of staff they happen to meet. Managing expectations and communicating delays honestly is given particular weight, because a wait that is explained is a materially different experience from a wait that is not. What changes is consistency, which is the quality patients and their families notice most and comment on least."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Creating a positive first impression, at the counter, on the telephone and at the entrance",
+      "Welcoming and guiding patients and attendants, including those who are lost, late or unwell",
+      "Understanding patient and attendant concerns, and the difference between the stated and the actual need",
+      "Managing expectations and communicating delays honestly and early",
+      "Creating consistent service standards, so that the experience does not vary by individual or by shift"
+     ]
+    },
+    {
+     "type": "subhead",
+     "text": "M6 \u00b7 The Patient Journey, Touchpoint Application"
+    },
+    {
+     "type": "para",
+     "text": "Four sessions that walk the agreed standard along the patient's actual path, from the first telephone enquiry to the feedback captured after discharge. Each touchpoint is examined for what the patient needs at that moment, what commonly goes wrong there, and what the handover to the next touchpoint requires. This is where the programme stops being about individual behaviour and becomes about a journey that several departments own jointly. What changes is that staff begin to see their role as one link in a sequence, and to protect the link that follows theirs."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Enquiry and appointment handling, and arrival and registration",
+      "Admission coordination and departmental guidance, including physically escorting where appropriate",
+      "Waiting-time communication, and the practice of updating before being asked",
+      "Billing explanation and attendant interaction, delivered in plain language and without defensiveness",
+      "Internal coordination, discharge communication, and feedback and complaint capture and resolution"
+     ]
+    },
+    {
+     "type": "subhead",
+     "text": "M7 \u00b7 Difficult Situations & Service Recovery"
+    },
+    {
+     "type": "para",
+     "text": "Five sessions, the largest single allocation in the programme, on the situations that shape a hospital's reputation. Participants work with anxious, distressed and openly angry individuals, with the sensitive delivery of difficult information, with complaints, and with recovery once something has already gone wrong. The work is graded from mild to severe across three weeks, so that confidence is built rather than tested. What changes is that a difficult moment becomes a sequence the staff member knows how to run, rather than a situation they simply endure and then avoid."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Handling anxious, emotional and aggressive individuals, and recognising which of the three is actually present",
+      "Communicating difficult information sensitively, within the limits of the staff member's role and authority",
+      "Complaint handling, including receiving a complaint without becoming defensive",
+      "Service recovery, and what can and cannot be offered or promised",
+      "Conflict de-escalation, including when and how to escalate rather than continue alone"
+     ]
+    },
+    {
+     "type": "subhead",
+     "text": "M8 \u00b7 Personal Effectiveness & Resilience"
+    },
+    {
+     "type": "para",
+     "text": "Two sessions placed immediately after the pressure of Module 7, when the need for them is felt rather than merely described. Compassion fatigue is named openly, because staff who work continuously with distressed families carry a load that is rarely acknowledged and almost never discussed. Time and priority management and personal accountability are treated as the practical face of the same subject, since a great deal of avoidable stress is created by work that was never sequenced. What changes is that composure becomes sustainable across a full shift rather than available only in the first two hours of it."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Stress management, with practical techniques usable inside a working shift",
+      "Compassion fatigue, its early signs, and what to do rather than simply endure it",
+      "Time and priority management under interruption, which is the normal condition of hospital work",
+      "Problem-solving and personal accountability, including owning a situation until it is properly handed over",
+      "Cultural sensitivity across language, religion, region and family structure"
+     ]
+    },
+    {
+     "type": "subhead",
+     "text": "M9 \u00b7 Teamwork & Inter-departmental Coordination"
+    },
+    {
+     "type": "para",
+     "text": "Three sessions on the coordination that patients experience as competence. Departments practise handovers together, agree explicitly on what the receiving department needs, and examine the internal-customer relationship honestly, including the places where it currently costs the patient time. What changes is fewer patients repeating themselves, and fewer situations where the failure lies in no single department but in the space between two of them."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Collaboration across departments, and the shared ownership of a single patient journey",
+      "Handovers, including the minimum information the receiving team actually requires",
+      "The internal-customer mindset, applied to colleagues who are also under pressure",
+      "Escalation discipline: what to escalate, to whom, and how quickly",
+      "Cross-department empathy, built by understanding the constraints the other department is working under"
+     ]
+    },
+    {
+     "type": "subhead",
+     "text": "M10 \u00b7 Leadership & Supervisory Development"
+    },
+    {
+     "type": "para",
+     "text": "Four sessions for supervisors and department heads, delivered once their teams have completed the frontline curriculum. The emphasis is on moving from supervising activity to developing people, which requires a different set of daily habits: a short structured huddle, delegation that is genuine rather than nominal, feedback given close to the event, and a considered approach to underperformance. What changes is that the standard acquires an owner on every shift, which is the single condition on which everything taught in the preceding ten weeks depends."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Leading with empathy and accountability, and holding both at the same time",
+      "Setting clear performance expectations, and conducting effective team huddles",
+      "Delegation and task management, and coaching employees rather than correcting them",
+      "Giving constructive feedback, managing workplace conflict, and handling underperformance",
+      "Motivating diverse teams and building a continuous-learning culture that outlasts the engagement"
+     ]
+    },
+    {
+     "type": "subhead",
+     "text": "M11 \u00b7 Train-the-Trainer"
+    },
+    {
+     "type": "para",
+     "text": "Three sessions for a selected group of internal trainers, each of whom has already completed the curriculum they will go on to carry. They learn how adults actually learn, how to facilitate rather than present, how to run a role play without losing the room, and how to assess and give feedback. The purpose is plainly stated: the hospital should not require Levitatte in the room in order to induct its next intake to the same standard."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Adult learning principles, and why practice outperforms explanation with experienced staff",
+      "Facilitation techniques and presentation skills, including handling the resistant participant",
+      "Activity and role-play management, and debriefing a role play so the learning is retained",
+      "Employee engagement and assessment methods, including the use of observation checklists",
+      "Giving feedback and reinforcing learning at the workplace, between formal sessions"
+     ]
+    },
+    {
+     "type": "subhead",
+     "text": "M12 \u00b7 Consolidation, Assessment & Management Review"
+    },
+    {
+     "type": "para",
+     "text": "Two closing sessions that turn the engagement into evidence. Post-training assessment results, observation findings and feedback analysis are consolidated into a clear statement of where capability now stands and, equally important, where it does not. The reinforcement and corrective action plan is agreed with the hospital, and the engagement closes with a management review presentation and the handover of records, materials and the training effectiveness dashboard."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Post-training assessment and consolidation of results against the competency framework",
+      "Observation findings and a candid review of the remaining skill gaps by role group",
+      "Corrective action and reinforcement plan, agreed jointly with the hospital",
+      "Management review presentation to hospital leadership",
+      "Handover of training records, participant materials, facilitator guides and the training effectiveness dashboard"
+     ]
+    },
+    {
+     "type": "table",
+     "columns": [
+      "Module",
+      "Focus",
+      "Sessions"
+     ],
+     "rows": [
+      [
+       "M1 Foundation & Orientation",
+       "Awareness. Shared ground, patient rights, conduct, escalation",
+       "3"
+      ],
+      [
+       "M2 Professional Presence",
+       "Self. The judgement a patient makes before a word is spoken",
+       "2"
+      ],
+      [
+       "M3 Communication Fundamentals",
+       "Tools. Verbal, non-verbal, active listening, telephone",
+       "4"
+      ],
+      [
+       "M4 Emotional Intelligence & Empathy",
+       "Inner capability. Regulation, compassion, dignity, privacy",
+       "3"
+      ],
+      [
+       "M5 Patient Experience & Service Standards",
+       "Application. One agreed standard, consistently delivered",
+       "4"
+      ],
+      [
+       "M6 The Patient Journey, Touchpoint Application",
+       "Application. The standard walked touchpoint by touchpoint",
+       "4"
+      ],
+      [
+       "M7 Difficult Situations & Service Recovery",
+       "Complexity. Distress, complaints, de-escalation, recovery",
+       "5"
+      ],
+      [
+       "M8 Personal Effectiveness & Resilience",
+       "Sustainability. Carrying the work without erosion",
+       "2"
+      ],
+      [
+       "M9 Teamwork & Inter-departmental Coordination",
+       "Sustainability. Handovers and coordination across departments",
+       "3"
+      ],
+      [
+       "M10 Leadership & Supervisory Development",
+       "Multiplication. Supervisors who own the standard on every shift",
+       "4"
+      ],
+      [
+       "M11 Train-the-Trainer",
+       "Multiplication. Internal capability to carry the curriculum forward",
+       "3"
+      ],
+      [
+       "M12 Consolidation, Assessment & Management Review",
+       "Consolidation. Evidence, remaining gaps, agreed next steps",
+       "2"
+      ],
+      [
+       "Total",
+       "13 weeks x 3 sessions",
+       "39"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "calendar",
+   "eyebrow": "DELIVERY SCHEDULE",
+   "title": "The 13-Week Delivery Calendar",
+   "intro": "Sessions are proposed on every Wednesday, Thursday and Friday, four hours per session, thirty participants per batch. Across thirteen weeks that gives thirty-nine sessions, distributed as set out below. The audience shifts twice: the frontline and staff batches run through Week 10, the supervisory and leadership batch takes Weeks 11 and 12, and the selected internal-trainer batch runs from Week 12 into Week 13.",
+   "blocks": [
+    {
+     "type": "table",
+     "columns": [
+      "Week",
+      "Modules in delivery",
+      "Primary audience"
+     ],
+     "rows": [
+      [
+       "Week 1",
+       "M1 Foundation & Orientation (3)",
+       "Frontline and staff batches (supervisors included)"
+      ],
+      [
+       "Week 2",
+       "M2 Professional Presence (2), M3 Communication Fundamentals (1)",
+       "Frontline and staff batches (supervisors included)"
+      ],
+      [
+       "Week 3",
+       "M3 Communication Fundamentals (3)",
+       "Frontline and staff batches (supervisors included)"
+      ],
+      [
+       "Week 4",
+       "M4 Emotional Intelligence & Empathy (3)",
+       "Frontline and staff batches (supervisors included)"
+      ],
+      [
+       "Week 5",
+       "M5 Patient Experience & Service Standards (3)",
+       "Frontline and staff batches (supervisors included)"
+      ],
+      [
+       "Week 6",
+       "M5 Patient Experience & Service Standards (1), M6 The Patient Journey (2)",
+       "Frontline and staff batches (supervisors included)"
+      ],
+      [
+       "Week 7",
+       "M6 The Patient Journey (2), M7 Difficult Situations & Service Recovery (1)",
+       "Frontline and staff batches (supervisors included)"
+      ],
+      [
+       "Week 8",
+       "M7 Difficult Situations & Service Recovery (3)",
+       "Frontline and staff batches (supervisors included)"
+      ],
+      [
+       "Week 9",
+       "M7 Difficult Situations & Service Recovery (1), M8 Personal Effectiveness & Resilience (2)",
+       "Frontline and staff batches (supervisors included)"
+      ],
+      [
+       "Week 10",
+       "M9 Teamwork & Inter-departmental Coordination (3)",
+       "Frontline and staff batches (supervisors included), convened cross-departmentally"
+      ],
+      [
+       "Week 11",
+       "M10 Leadership & Supervisory Development (3)",
+       "Supervisory and leadership batch"
+      ],
+      [
+       "Week 12",
+       "M10 Leadership & Supervisory Development (1), M11 Train-the-Trainer (2)",
+       "Supervisory and leadership batch, with the selected internal-trainer batch commencing"
+      ],
+      [
+       "Week 13",
+       "M11 Train-the-Trainer (1), M12 Consolidation, Assessment & Management Review (2)",
+       "Selected internal-trainer batch, with hospital leadership joining for the management review"
+      ]
+     ]
+    },
+    {
+     "type": "para",
+     "text": "A note on the arithmetic, offered plainly. Ninety calendar days yields between thirty-six and thirty-nine sessions on a Wednesday, Thursday and Friday pattern, depending on the start date and on hospital holidays. Thirty-nine is the planning basis used throughout this proposal, and thirty-six is the honest floor. Where sessions are lost to hospital holidays, the affected module retains its priority and the calendar is compressed at the least sensitive point rather than at M7 or M10."
+    },
+    {
+     "type": "para",
+     "text": "The calendar above is a proposed structure, not a fixed instruction. Week-by-week dates, batch composition, session timings and the release of staff by department are confirmed jointly with the hospital's HR and L&D function before commencement, so that delivery sits around clinical load rather than against it. Sessions missed for hospital reasons are rescheduled within the engagement window wherever this is operationally possible, and any that cannot be are carried into the reinforcement plan agreed in M12."
+    },
+    {
+     "type": "para",
+     "text": "One track sits outside this grid by design. The New-Employee Induction programme is built once during the Diagnose and Design stages and then delivered to each new-joiner cohort as they arrive, so it is a recurring standing track rather than a week in the calendar. It is the first thing the internal trainers developed in M11 are equipped to carry, which is how the hospital retains the standard for staff who join after this engagement has closed."
+    }
+   ]
+  },
+  {
+   "id": "methodology",
+   "eyebrow": "IN THE ROOM",
+   "title": "How Sessions Are Run",
+   "intro": "Employees are not simply told what to do. They practise how to do it. That principle governs every session, and it is the reason the session length proposed is four hours rather than the ninety minutes that behavioural training is often compressed into.",
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Levitatte's methodology rests on three pillars: interactive workshops, NLP techniques, and practical application through role plays, case studies and group activities. All three require time in the room. A short session permits input and perhaps a demonstration, after which the participant returns to the floor having watched something rather than done it. Four hours permits a complete cycle: concept, demonstration, practice, feedback, and then a second attempt with that feedback applied. The second attempt is where behaviour actually moves, and it is the part that shorter formats invariably lose."
+    },
+    {
+     "type": "para",
+     "text": "With thirty participants in a batch, practice is structured in sub-groups of five or six rather than run from the front, so that every participant practises more than once in a session and is observed while doing so. Facilitation is in person throughout. All scenarios, cases and simulations are written against this hospital's own situations, drawn from the Diagnose stage, so that participants are reasoning about their own counter, their own waiting area and their own billing conversation rather than a generic one."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Instructor-led workshops, facilitated in person, deliberately short on input and long on practice so that the room is working rather than listening",
+      "Role plays, run in small groups, with each participant taking both the staff role and the patient or attendant role, because sitting in the patient's chair changes what a person notices",
+      "Hospital-based case studies, written from situations identified during the Diagnose stage, so participants reason through a real decision with real constraints",
+      "Patient-interaction simulations, staged to resemble the actual touchpoint, a reception counter, a telephone enquiry, a billing explanation, a waiting area, so that behaviour is rehearsed in the setting where it must appear",
+      "Group activities, used to surface how differently people in the same role currently handle the same situation, which is usually the fastest route to agreeing a single standard",
+      "Scenario discussions, short structured deliberations on judgement calls with no single correct answer, such as how much to tell an anxious attendant while a decision is still pending",
+      "Microlearning sessions, brief reinforcement pieces between formal sessions, sized to fit a shift handover or a huddle, so that learning is refreshed in the same week it was taught",
+      "On-the-job observation, conducted at the workplace against an agreed checklist and with department-head coordination, so that the programme is informed by what is happening at the counter and not only by what is reported in the room",
+      "Coaching and reinforcement, individual and small-group follow-up for participants who need it, together with support for the supervisors who must sustain the standard once the session has ended",
+      "Pre- and post-training assessments, administered at module level, to establish a starting position, to record movement where it occurs, and to identify precisely where reinforcement is required"
+     ]
+    },
+    {
+     "type": "para",
+     "text": "A representative four-hour session runs as follows. Fifteen minutes to open, reconnect and review the commitments participants made at the end of the previous session. Thirty minutes of concept input, kept tight and free of jargon. Thirty-five minutes of demonstration, in which the facilitator models the behaviour and the group then takes it apart to identify what specifically made it work. Sixty minutes of structured practice in sub-groups, with observation. A fifteen-minute break. Forty-five minutes of a second practice round with the feedback from the first applied, which is the session's real work. Twenty-five minutes on a hospital case or scenario that places the behaviour into a live touchpoint. Fifteen minutes to consolidate, record individual commitments for the coming week, issue the job aid and close. Two hundred and forty minutes in total, of which 105 minutes are structured practice and a further 25 minutes are participant case work."
+    },
+    {
+     "type": "para",
+     "text": "On-the-job observation and coaching sit alongside the session grid rather than inside it, arranged with department heads at times that suit the department. This matters to the integrity of the programme: it is the mechanism by which what was practised in the room is checked against what happens on the floor, and it is what allows the reinforcement plan in M12 to be based on observed behaviour rather than on session attendance alone."
+    }
+   ]
+  },
+  {
+   "id": "role-tracks",
+   "eyebrow": "ROLE ARCHITECTURE",
+   "title": "Role-Based Learning Tracks",
+   "intro": "Different hospital roles carry different parts of the patient experience. A receptionist is judged on the first ten seconds of a telephone call. A billing executive is judged on how a frightened family is told what treatment will cost. A housekeeping attendant is judged on how a room is entered while a patient is sleeping. The same training cannot serve all of them equally.",
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The proposed programme therefore runs on a single common spine so that the whole organisation learns one shared language for service, and then varies the weighting, the scenarios and the practice work by role group. A front-office batch and a security batch may both be working on de-escalation in the same week, but the situations they rehearse, the words they practise and the job aids they leave with are not the same."
+    },
+    {
+     "type": "para",
+     "text": "Modules M1 to M5 and M7 to M9 form the common foundation and are attended by every group. Module M6, the patient-journey touchpoint module, is allocated by role: groups that own a formal step in the patient journey work it in full, while housekeeping and security, whose contribution is presence and conduct rather than a journey step, take the conduct content that concerns them inside M5 and M7 instead. Module M10 is taken by the supervisory and leadership cohort. Module M11 is taken only by the small group of employees nominated as internal trainers. Supervisors and department heads take the foundation modules alongside their own teams, inside the same batches rather than in a separate senior run, which is deliberate: a supervisor cannot reinforce a standard they did not sit through. Hospital leadership attends selected foundation sessions and then Modules M10 and M12. Within the thirty participants per batch, composition is grouped by role wherever numbers permit, so that case studies and role-plays stay recognisable to everyone in the room."
+    },
+    {
+     "type": "table",
+     "columns": [
+      "Role group",
+      "Core modules",
+      "Emphasis"
+     ],
+     "rows": [
+      [
+       "Front-office and reception teams",
+       "M1-M9",
+       "First impressions and the telephone. Enquiry and appointment handling, greeting and verification, waiting-time communication, guiding patients between departments, holding composure at a busy desk."
+      ],
+      [
+       "Patient relations teams",
+       "M1-M9",
+       "Empathy under pressure and recovery. Listening without defending, managing expectations, complaint intake and resolution, attendant interaction, feedback closure and internal escalation."
+      ],
+      [
+       "Billing and administrative teams",
+       "M1-M9",
+       "Money conversations handled with clarity and kindness. Estimate explanation, early communication of revisions, insurance and approval status, holding a policy position courteously."
+      ],
+      [
+       "Nursing and clinical-support personnel",
+       "M1-M5, M7-M9, with selected M6 touchpoints",
+       "Behavioural and communication layer only. Bedside manner, dignity and privacy, attendant reassurance, behavioural handover, compassion fatigue. No clinical, protocol or statutory content is taught."
+      ],
+      [
+       "Housekeeping and facility teams",
+       "M1-M5, M7 (condensed), M8, M9",
+       "Presence, discretion and non-verbal conduct. Entering and working in occupied rooms, confidentiality about what is seen and overheard, routing questions correctly, reporting observations."
+      ],
+      [
+       "Security personnel",
+       "M1-M5, M7-M9",
+       "Firm without being combative. Gate and lobby first contact, stating a rule calmly, de-escalation, managing gatherings of attendants during distress, clean handover of incidents."
+      ],
+      [
+       "Supervisors and department heads",
+       "M1-M9, M10",
+       "Reinforcement of the standard their teams were taught. Huddles, on-floor observation, same-shift feedback, coaching, conflict at their own level, early handling of underperformance."
+      ],
+      [
+       "Managers and hospital leadership",
+       "Selected foundation sessions, M10, M12",
+       "Sponsorship, governance and follow-through. Setting a small number of stated standards, reading training reports operationally, separating training gaps from process gaps, protecting release time."
+      ]
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Two tracks sit outside this table by design. Module M11, Train-the-Trainer, is not a role track. It is taken by a nominated group drawn from any of the eight groups above, on the basis set out later in this document. The New-Employee Induction programme is a standing track rather than a week in the calendar. It is built once during the Diagnose and Design stages and then delivered to each new-joiner cohort as they arrive, so that a nurse or receptionist joining in month three does not enter an organisation whose service language they have never been taught."
+    },
+    {
+     "type": "para",
+     "text": "Where a role group's participation is shown as condensed or partial, this reflects release-time reality rather than a lower standard. Clinical and ward teams in particular cannot be withdrawn from duty on the same pattern as administrative teams, and the design accommodates that instead of assuming it away. Final module allocation per group would be confirmed during the Diagnose and Design stages, in consultation with the hospital's human resources and nursing leadership."
+    }
+   ]
+  },
+  {
+   "id": "takeaways",
+   "eyebrow": "PER-ROLE OUTCOMES",
+   "title": "What Each Group Takes Away",
+   "intro": "This section states, group by group, what participants will be able to do differently, what they physically carry back to their workstation, and what a supervisor should expect to see on the floor. The behaviour changes described are what the programme is designed to produce and what observation should look for. They are stated in observable terms so that reinforcement has something specific to reinforce, not because any single interaction can be guaranteed.",
+   "blocks": [
+    {
+     "type": "subhead",
+     "text": "1. Front-office and reception teams"
+    },
+    {
+     "type": "para",
+     "text": "This group is the hospital's first impression and its most exposed voice. Every enquiry call, every arrival at the desk and every question about a delay lands here, frequently three at once, and always with a queue watching how it is handled."
+    },
+    {
+     "type": "para",
+     "text": "Capabilities gained:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Open a telephone call with a consistent greeting, establish the caller's actual need within the first exchange, and close with a stated next step rather than an open ending.",
+      "Give an honest account of a waiting time, including what is being waited for and when the next update will come, without either minimising the delay or over-promising a time.",
+      "Guide a patient or attendant to a department in short, ordered steps, confirming understanding before they walk away rather than delivering the whole route at once.",
+      "Hold professional composure and courtesy while managing a walk-in queue, a ringing telephone and an attendant standing at the counter.",
+      "Recognise the point at which an enquiry has moved beyond their remit, and hand it to patient relations or the department concerned with the context already gathered.",
+      "Present the same greeting, posture and tone in the last hour of a shift as in the first."
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Tools they keep:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "A telephone handling card carrying the standard greeting, need-identification questions, hold-and-return language, transfer language and closing lines.",
+      "A waiting-time communication framework with agreed wording for the first delay, a revision to the estimate, and an extended delay.",
+      "A desk conduct and shift-handover checklist covering appearance, counter presentation and what the next shift must be told.",
+      "A departmental guidance aid for the locations patients most often need to reach."
+     ]
+    },
+    {
+     "type": "para",
+     "text": "On the floor, what observation should look for: callers stop being left on indefinite hold with no one returning to the line, because the hold-and-return wording becomes habit rather than courtesy. Attendants at the desk are told what is happening and when they will next hear something, so fewer of them ask the same question of three different staff members."
+    },
+    {
+     "type": "subhead",
+     "text": "2. Patient relations teams"
+    },
+    {
+     "type": "para",
+     "text": "This group is handed the interactions that others could not resolve, and usually meets the patient or attendant at the point where patience has already run out. Their credibility rests on being able to listen without defending, and to act without over-committing the hospital."
+    },
+    {
+     "type": "para",
+     "text": "Capabilities gained:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Take a complaint in full before responding, separating what actually happened from how it was experienced, and treating both as real.",
+      "Acknowledge a service failure without assigning blame to a colleague or another department in front of the family.",
+      "Distinguish a request that can be resolved now, one that must be escalated, and one that must be declined, and communicate each of the three differently.",
+      "Give a commitment the hospital can genuinely meet, including a named person and a stated time for coming back.",
+      "Close the loop so that the family hears the outcome and not only the apology.",
+      "Brief a clinician or department head about a family's concern accurately, without emotional colouring and without editing out the difficult part."
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Tools they keep:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "A service recovery framework covering acknowledge, understand, act, follow up and close.",
+      "A complaint intake and escalation template that records the facts, the family's stated expectation, and the commitment given.",
+      "A phrase bank for acknowledgement, apology, declining a request and confirming follow-through.",
+      "A personal reset routine for use after a difficult encounter, drawn from the resilience module."
+     ]
+    },
+    {
+     "type": "para",
+     "text": "On the floor, what observation should look for: complaints are recorded with the family's actual expectation written down, so follow-up is measured against a commitment rather than a memory. Fewer conversations end with the phrase that someone will call, because a name and a time are given instead."
+    },
+    {
+     "type": "subhead",
+     "text": "3. Billing and administrative teams"
+    },
+    {
+     "type": "para",
+     "text": "This group has to hold conversations about money with people who are frightened, tired and often deciding between options none of which feel affordable. An accurate bill delivered coldly can undo an excellent clinical experience, and this group is the last interaction many families remember."
+    },
+    {
+     "type": "para",
+     "text": "Capabilities gained:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Explain an estimate, what it includes and what it excludes, in plain language and in the order a family actually needs to hear it.",
+      "Communicate a revision to an estimate at the point it becomes known, with the reason stated, rather than allowing it to be discovered at settlement.",
+      "Stay warm and steady when a family responds to a figure with anger, disbelief or tears, without becoming either defensive or apologetic about the hospital.",
+      "State insurance and approval status clearly: what is confirmed, what is pending, who is acting on it and when the family will next be updated.",
+      "Hold the hospital's position on a policy matter courteously, without arguing it and without implying it is unreasonable.",
+      "Recognise when a financial conversation has become too personal for a counter, and move it to a private space."
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Tools they keep:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "A billing explanation script framework: orient the family, give the break-up, then the headline figure, then what may still change, then the next step.",
+      "An estimate-revision conversation checklist for communicating changes early and factually.",
+      "A phrase bank for financial distress, disputed items, and holding a policy position.",
+      "A prompt card for moving a sensitive conversation away from the counter."
+     ]
+    },
+    {
+     "type": "para",
+     "text": "On the floor, what observation should look for: revisions to an estimate are raised when they arise rather than discovered at discharge. Families are walked through the break-up before the total is discussed, which visibly changes the temperature of the conversation."
+    },
+    {
+     "type": "subhead",
+     "text": "4. Nursing and clinical-support personnel"
+    },
+    {
+     "type": "para",
+     "text": "This group spends more time with patients and attendants than any other, which means the manner in which information is delivered matters to a family almost as much as the information itself. Their participation in this programme covers the behavioural and communication layer only."
+    },
+    {
+     "type": "para",
+     "text": "No clinical instruction, medical content, protocol training or statutory content is taught in these sessions. Levitatte does not deliver clinical training and does not position itself to do so. What is taught is how to communicate, how to regulate under pressure, how to protect dignity, and how to hand over a family's emotional state along with the task list."
+    },
+    {
+     "type": "callout",
+     "text": "Clinical, statutory and policy-specific training content will be developed or delivered in coordination with authorised hospital representatives and subject-matter experts."
+    },
+    {
+     "type": "para",
+     "text": "Capabilities gained:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Deliver routine information at the bedside in a manner that preserves dignity, using position, eye level, tone and pace deliberately rather than by instinct.",
+      "Answer attendant questions with a consistent account of what they can discuss and what must be referred, so that referral does not read as evasion.",
+      "Recognise rising distress in a patient or attendant early, and respond with regulation rather than reaction.",
+      "Protect privacy in shared and open areas, including how conversations about one patient are conducted within earshot of another.",
+      "Give and receive a behavioural handover, so the incoming shift knows the family's state of mind and not only the clinical position.",
+      "Recognise compassion fatigue in themselves and in colleagues, and use the recovery practices covered in the resilience module."
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Tools they keep:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "A bedside communication card covering approach, introduction, explanation and checking for understanding.",
+      "An attendant conversation boundary card separating what may be discussed from what must be referred, and to whom.",
+      "A behavioural handover prompt for shift change, sitting alongside the hospital's existing clinical handover format.",
+      "A compassion fatigue self-check and a short reset routine for use between duties."
+     ]
+    },
+    {
+     "type": "para",
+     "text": "On the floor, what observation should look for: attendants are told who will answer their clinical question and roughly when, instead of being told nothing and left to intercept whoever passes. Conversations about a patient move out of other patients' hearing as a matter of habit rather than as a correction."
+    },
+    {
+     "type": "subhead",
+     "text": "5. Housekeeping and facility teams"
+    },
+    {
+     "type": "para",
+     "text": "This group enters rooms at private moments, works in the background of difficult conversations, and is regularly asked questions it is not positioned to answer. To a patient confined to a bed, a housekeeping attendant is one of the most constant human presences of the day."
+    },
+    {
+     "type": "para",
+     "text": "Capabilities gained:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Enter, work in and leave an occupied room using a consistent courtesy sequence that respects sleep, privacy and the presence of family.",
+      "Hold discretion about anything seen or overheard, understanding that this is a patient-rights obligation and not merely good manners.",
+      "Respond to a patient or attendant question by acknowledging it and routing it to the right person, rather than guessing an answer or moving away in silence.",
+      "Use non-verbal conduct deliberately, since a good deal of their interaction happens without a shared language.",
+      "Report a cleanliness, maintenance or safety observation promptly through the correct channel, including observations that are inconvenient to report.",
+      "Stay composed when a distressed family reacts to their presence in the room, and withdraw courteously when that is the right response."
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Tools they keep:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "A room-entry courtesy card: knock, announce, state the purpose, seek permission, confirm on completion.",
+      "A route-it-do-not-guess reference showing which kinds of question go to which desk.",
+      "A confidentiality and discretion reminder card written in plain language."
+     ]
+    },
+    {
+     "type": "para",
+     "text": "On the floor, what observation should look for: rooms are entered with an announcement and a stated purpose rather than in silence. Questions asked of housekeeping reach the correct desk, because the team knows where to take them and is no longer improvising an answer to be helpful."
+    },
+    {
+     "type": "subhead",
+     "text": "6. Security personnel"
+    },
+    {
+     "type": "para",
+     "text": "This group is often the first face at the gate and the last authority in a corridor, and it is asked to be firm at precisely the moment a family is least able to accept instruction. Being firm without being combative is a learned skill rather than a matter of temperament."
+    },
+    {
+     "type": "para",
+     "text": "Capabilities gained:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Deliver a first greeting at the gate or lobby that reads as welcome rather than challenge, while still completing the required check.",
+      "State a rule and its reason once, calmly, and repeat it without raising volume, altering posture or personalising the exchange.",
+      "De-escalate a rising confrontation through distance, tone, pace and offering a choice, rather than through authority alone.",
+      "Manage a gathering of attendants during a critical event, including where to move people, what to tell them and what not to speculate about.",
+      "Recognise the point at which a situation must go to a supervisor or the hospital's incident channel, and hand it over cleanly with the facts intact.",
+      "Distinguish a person who is being difficult from a person who is frightened, and respond to each differently."
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Tools they keep:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "A gate and lobby greeting and verification card carrying the agreed wording for entry checks.",
+      "A de-escalation ladder card: position, distance, tone, language, choice, handover.",
+      "A gate-side aid pairing visitor and attendant entry rules with the courteous wording for applying them.",
+      "An incident handover template recording what happened, what was said and what was committed."
+     ]
+    },
+    {
+     "type": "para",
+     "text": "On the floor, what observation should look for: a refusal is delivered with a reason and, where possible, an alternative, which reduces the number of arguments that have to be carried to a supervisor. Attendants gathering in a corridor are moved with an explanation rather than an instruction."
+    },
+    {
+     "type": "subhead",
+     "text": "7. Supervisors and department heads"
+    },
+    {
+     "type": "para",
+     "text": "This group determines whether the programme survives contact with a working week. Standards taught in a training room decay unless a supervisor notices them, names them and reinforces them daily, which is why this cohort is trained after their teams and not before."
+    },
+    {
+     "type": "para",
+     "text": "Capabilities gained:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "State and model the service standard their team was taught, in the same language the team heard it in, so that reinforcement and training do not contradict each other.",
+      "Run a short daily huddle that sets one behavioural focus for the shift and closes the previous day's open issue.",
+      "Observe an interaction against a defined checklist and give feedback within the same shift, reinforcing what was done well as deliberately as correcting what was not.",
+      "Coach rather than instruct, using questions that let the employee reach the answer and take ownership of it.",
+      "Handle a conflict between two staff members, or between two departments, at their own level instead of escalating it by default.",
+      "Address a pattern of underperformance early, factually and on record, separating a capability gap from a willingness gap and responding to each appropriately."
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Tools they keep:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Observation checklists for each role group present in their department.",
+      "A daily huddle template with a standing behavioural focus slot.",
+      "A feedback conversation structure covering both reinforcing and corrective conversations.",
+      "A coaching question set and a one-page guide for the underperformance conversation."
+     ]
+    },
+    {
+     "type": "para",
+     "text": "On the floor, what observation should look for: the behavioural focus of the day is named at the start of the shift, so service standards are spoken about routinely rather than only after a complaint. Feedback happens on the same day and near the point of the behaviour, rather than being stored up for an appraisal."
+    },
+    {
+     "type": "subhead",
+     "text": "8. Managers and hospital leadership"
+    },
+    {
+     "type": "para",
+     "text": "This group's attention is the scarcest input in the whole programme, and the way it is visibly allocated tells the organisation whether patient experience is a priority or a project. This group also has to decide what to do with what the programme surfaces, which is often uncomfortable."
+    },
+    {
+     "type": "para",
+     "text": "Capabilities gained:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Read a training report as an operational document, distinguishing attendance from capability, and capability from behaviour actually observed on the floor.",
+      "Set a small number of service standards the organisation will be held to, state them publicly, and resist the temptation to set too many.",
+      "Ask supervisors for evidence of reinforcement rather than evidence of attendance.",
+      "Recognise recurring service issues that no amount of training will resolve because their cause is structural, and act on those separately.",
+      "Protect release time for training against operational pressure, and weigh the cost of not doing so.",
+      "Sustain the culture after this engagement through the induction track and the internal trainers developed during it."
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Tools they keep:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "A service governance review pack: a monthly agenda, a set of standing questions and a reporting format.",
+      "The competency and skill-gap framework, usable afterwards as a reference for recruitment, role definition and appraisal conversations.",
+      "A leadership communication note for stating service standards publicly to staff."
+     ]
+    },
+    {
+     "type": "para",
+     "text": "On the floor, what observation should look for: service behaviour appears on the monthly management agenda with the same regularity as operational and financial matters. Recurring complaints are sorted into those that training can address and those that require a process, staffing or infrastructure decision, and the second category stops being sent back to training."
+    }
+   ]
+  },
+  {
+   "id": "leadership",
+   "eyebrow": "SUSTAINING THE STANDARD",
+   "title": "Leadership And Supervisory Development",
+   "intro": "Hospital service standards can only be sustained when managers and supervisors actively guide their teams. In our experience the supervisory layer is what determines whether a behavioural programme holds or fades, and it is the reason Module M10 is treated as a substantial piece of work rather than a courtesy session for seniors.",
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Service behaviour is perishable. A team returns from a well-run session genuinely willing, and then meets a shift that is short-staffed, a queue that is long, and a supervisor who is measuring only whether the work was completed. In time the new behaviour has quietly reverted, not because anyone rejected it, but because nothing in the working day asked for it. Trained staff returning to untrained supervisors regress. That is the failure mode this module exists to prevent."
+    },
+    {
+     "type": "para",
+     "text": "Module M10 is therefore placed after the frontline modules rather than before them, and is delivered across four sessions in weeks eleven and twelve to a supervisory and leadership cohort. The sequencing is deliberate. A supervisor cannot coach a standard they have not seen taught, and cannot enforce wording they have not themselves practised. By the time this cohort begins, they have already sat through the same foundation their teams received, and can reinforce it in the same language."
+    },
+    {
+     "type": "para",
+     "text": "The aim of the module is a shift in the definition of the supervisory job. Supervisors are commonly promoted for operational reliability, and that is often exactly where their strength lies: allocating duties, closing tasks, chasing completion, escalating exceptions. Developing people is a different discipline. It requires noticing behaviour, describing it accurately, asking rather than telling, and being willing to have a small awkward conversation now instead of a large one later. We help managers move from supervising activities to developing people."
+    },
+    {
+     "type": "para",
+     "text": "The ten focus areas are covered as follows."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Leading with empathy and accountability, which are treated as one subject rather than two, because empathy without accountability produces drift and accountability without empathy produces fear and concealment.",
+      "Setting clear performance expectations, expressed as observable behaviour rather than attitude, so that an expectation can actually be met, evidenced and reviewed.",
+      "Conducting effective team huddles that are short, standing, focused on one behavioural point, and closed with a decision rather than a discussion.",
+      "Delegation and task management, including how to delegate the whole of a task rather than its mechanical portion, and how to follow up without taking the work back.",
+      "Coaching employees through structured questions, so that the employee arrives at the answer and therefore owns it, in place of instruction that has to be repeated.",
+      "Giving constructive feedback using a repeatable structure for both reinforcing and corrective conversations, delivered close to the behaviour and in private where correction is involved.",
+      "Managing workplace conflict, both between individuals and between departments, at the supervisor's own level, with escalation reserved for what genuinely needs it.",
+      "Motivating diverse teams across differences of language, education, tenure, department and shift pattern, including teams whose work is largely invisible to patients.",
+      "Handling underperformance early and factually, separating a capability gap from a willingness gap, documenting fairly, and knowing when the matter must move to human resources.",
+      "Building a continuous-learning culture, so that learning continues through huddles, observation, refreshers and internal trainers once the external programme concludes."
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Practice work in this module uses situations from the participants' own departments, gathered during the Diagnose stage. Supervisors rehearse the corrective conversation they have been avoiding, run a huddle in front of their peers, and observe a role-played interaction against the same checklist their team will be observed against. The material they leave with is deliberately short: a huddle template, observation checklists for the roles they supervise, a feedback structure and a coaching question set. A supervisor will use a one-page aid on a busy shift. They will not use a manual."
+    },
+    {
+     "type": "para",
+     "text": "Matters of clinical supervision, medical decision-making, statutory compliance and hospital disciplinary policy sit outside this module and remain with the hospital's own authorised representatives and experts. Where a supervisory conversation touches formal disciplinary process, the module teaches the behavioural conduct of the conversation and defers to the hospital's policy on the process itself."
+    }
+   ]
+  },
+  {
+   "id": "ttt",
+   "eyebrow": "INTERNAL CAPABILITY",
+   "title": "Train-The-Trainer: Building Internal Capability",
+   "intro": "An external programme that ends cleanly at ninety days leaves the hospital with trained staff and no way to train the next intake. The Train-the-Trainer module exists to prevent that. It is the mechanism by which capability stays inside the organisation after the engagement concludes.",
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Module M11 runs across three sessions in weeks twelve and thirteen, and is deliberately placed last. Internal trainers must have completed the curriculum themselves before they can carry any part of it. A facilitator who has not sat in the room as a participant cannot anticipate where a group will resist, which examples land, or why the difficult-situations module has to come after active listening and not before it."
+    },
+    {
+     "type": "para",
+     "text": "Levitatte can identify and develop internal trainers within the hospital, working with human resources and department heads to nominate them. Selection is proposed on the following basis."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Credibility with peers, which matters more than rank. A team will accept correction from someone they respect and will quietly dismiss it from someone they do not.",
+      "Demonstrated behaviour during the foundation modules, including attendance, participation and willingness to practise in front of others rather than only to discuss.",
+      "Communication clarity and composure, particularly the ability to hold a room when a participant is sceptical or senior.",
+      "Willingness, stated openly. Facilitation added to an unwilling employee's duties produces a reluctant trainer and a poor session.",
+      "Coverage across departments and shifts, so that induction and refreshers can be run without depending on a single individual's availability.",
+      "Endorsement by the department head, together with a realistic view of the release time the role will require."
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Selection on seniority alone is not advised, and neither is selection of the highest task performer by default. The best performer at a counter is not necessarily able to explain what they do, and being unable to explain one's own competence is common rather than unusual."
+    },
+    {
+     "type": "para",
+     "text": "The module covers the eight content areas below."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Adult learning principles, including why adults learn from practice and consequence rather than from instruction, and why a lecture to an experienced nurse rarely changes behaviour.",
+      "Facilitation techniques covering opening a session, managing airtime, handling the dominant and the silent participant, and dealing with a question the trainer cannot answer.",
+      "Presentation skills covering voice, pace, posture, use of the room and use of material, without turning the trainer into a performer.",
+      "Activity and role-play management, which is the hardest single skill: setting up a role-play so people commit to it, stopping it at the right moment, and debriefing it so the learning is named and not merely felt.",
+      "Employee engagement, including how to run a session for a group that has been sent rather than has chosen to attend, and how to open with relevance instead of an agenda slide.",
+      "Assessment methods covering pre- and post-session assessment, observation against a checklist, and the difference between what a participant knows and what they do.",
+      "Giving feedback to participants in a way that corrects without diminishing, in front of peers where appropriate and privately where not.",
+      "Reinforcing learning at the workplace through short refreshers, microlearning, huddle inputs and on-the-job observation, which is where most of the actual behaviour change is consolidated."
+     ]
+    },
+    {
+     "type": "para",
+     "text": "We should be plain about what three sessions can and cannot achieve. Internal trainers are developed to a defined starting competence. They are not certified as expert facilitators, and no such claim should be made of them internally. On completion, a nominated trainer should be able to deliver the New-Employee Induction programme using the facilitator guide provided, run refresher and microlearning inputs on the foundation modules, facilitate structured role-play practice within their own department, and conduct observation against the checklists. They should not initially be asked to design new content, to facilitate the difficult-situations and service-recovery module unaided, or to act as the sole assessor of a colleague's behaviour where that assessment carries consequences."
+    },
+    {
+     "type": "para",
+     "text": "Facilitator guides, participant materials, activity instructions, assessment tools and observation checklists are handed over to the hospital as part of the deliverables, so that internal trainers are working from the same material and the same wording used during the engagement. Within the engagement period, nominated trainers can co-facilitate under observation and receive feedback on their delivery. Any continuing mentoring, review or advanced facilitation development beyond the ninety days would be scoped and proposed separately."
+    },
+    {
+     "type": "para",
+     "text": "Where induction or refresher content touches clinical practice, statutory requirements or hospital policy, internal trainers deliver the behavioural and service portions only. Clinical, statutory and policy-specific training content will be developed or delivered in coordination with authorised hospital representatives and subject-matter experts."
+    }
+   ]
+  },
+  {
+   "id": "approach",
+   "eyebrow": "HOW WE WORK",
+   "title": "Our Five-Stage Approach",
+   "intro": "The engagement follows five stages. They are not five sequential phases with delivery bolted on at the end. Diagnose and design front-load the opening fortnight, delivery begins in Week 1 and runs to Week 13, and reinforcement and measurement operate continuously alongside the calendar. What follows sets out what happens in each stage, and when it happens inside the ninety days.",
+   "blocks": [
+    {
+     "type": "subhead",
+     "text": "01 \u00b7 Diagnose"
+    },
+    {
+     "type": "para",
+     "text": "The programme begins with listening rather than teaching. Before the curriculum is finalised, we spend time with management, department heads and floor staff to understand where the service experience holds and where it strains, and we look at what the hospital already knows about itself through its own feedback and audit records. This stage begins in the days before the first session and continues through the opening fortnight, so that later modules are shaped by what the first two weeks reveal."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Structured discussions with hospital management on service objectives, known pressure points and priorities for the quarter",
+      "Departmental inputs across the eight role groups, gathered through short interviews and quiet observation on the floor",
+      "Review of anonymised patient-feedback themes, complaint records, audit observations and performance gaps shared by the hospital",
+      "A Training Needs Analysis report by the end of Week 2 and a competency and skill-gap framework in Week 3, rather than at the end of the engagement"
+     ]
+    },
+    {
+     "type": "subhead",
+     "text": "02 \u00b7 Design"
+    },
+    {
+     "type": "para",
+     "text": "Findings from the diagnose stage are converted into module packs written around the hospital's own touchpoints, vocabulary and service standards. Foundation and professional-presence material is prepared first, in Weeks 1 and 2, and design then runs one module block ahead of delivery for the remainder of the engagement. This is deliberate: material reaching Week 9 should reflect what the preceding eight weeks taught us about the floor, not what was assumed in Week 1."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Customisation of all twelve modules against hospital SOPs, service standards, patient-rights statements and role responsibilities where these exist",
+      "Case studies and patient-interaction simulations built from real, anonymised situations at the hospital rather than generic hospitality scenarios",
+      "Facilitator guides, participant workbooks and role-specific job aids prepared for each module block",
+      "The new-employee induction programme, built once during this stage and then delivered to each joining cohort as a standing track"
+     ]
+    },
+    {
+     "type": "subhead",
+     "text": "03 \u00b7 Deliver"
+    },
+    {
+     "type": "para",
+     "text": "Sessions run every Wednesday, Thursday and Friday for four hours, in batches of up to thirty participants. Each session is participative by design: employees are not simply told what to do, they practise how to do it, in front of colleagues, with correction in the room. Delivery spans all thirteen weeks, moving from frontline and staff batches in Weeks 1 to 10, to the supervisory batch in Weeks 11 and 12, and the selected internal-trainer batch in Weeks 12 and 13."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Instructor-led workshops combining role plays, hospital-based case studies and patient-interaction simulations",
+      "Group activities, scenario discussions and NLP-based techniques for self-regulation, rapport and composure under pressure",
+      "Microlearning inputs between sessions, so the previous week's practice is still alive when the next session opens",
+      "Attendance and training records maintained after every session and consolidated monthly"
+     ]
+    },
+    {
+     "type": "subhead",
+     "text": "04 \u00b7 Reinforce"
+    },
+    {
+     "type": "para",
+     "text": "Training that is not reinforced fades, and the fade is usually blamed on the training rather than on the silence that followed it. From Week 3 onwards, every completed module carries a reinforcement layer: job aids at the point of work, coaching conversations with the supervisors of those trained, and short observation visits during live shifts. Where observation shows that a standard is not holding, a corrective plan is agreed with the department concerned rather than recorded as a finding against it."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "On-the-job observation during live shifts, using the checklists issued with each module block",
+      "Coaching support for supervisors and department heads, so trained staff do not return to supervisors who are unaware of the standard",
+      "Job aids, quick-reference cards and refresher inputs placed where the work happens, at the counter, the desk and the nursing station",
+      "Corrective action and reinforcement plans, reviewed monthly with the hospital's nominated point of contact"
+     ]
+    },
+    {
+     "type": "subhead",
+     "text": "05 \u00b7 Measure"
+    },
+    {
+     "type": "para",
+     "text": "Measurement runs alongside delivery rather than arriving after it. Participation, knowledge gain and observed behaviour are recorded continuously and consolidated into a monthly training report and a training effectiveness dashboard. The management review in Week 13 presents the full picture of the ninety days, including a candid statement of what the data supports and what it cannot fairly attribute to training alone."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Pre- and post-training assessments for every module block, scored and trended by role group",
+      "Participant feedback captured session by session and analysed monthly for themes rather than averages",
+      "Monthly training reports and dashboard updates issued at the close of each month",
+      "Management review presentations at the end of Month 1, the end of Month 2 and in Week 13"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deliverables",
+   "eyebrow": "DELIVERABLES",
+   "title": "What The Hospital Receives",
+   "intro": "Thirteen deliverables are produced during the ninety days. Each is intended as a working document for use inside the hospital, not a report written to be filed. The timings below assume a Week 1 start and are confirmed in the training calendar issued in the first week.",
+   "blocks": [
+    {
+     "type": "table",
+     "columns": [
+      "Deliverable",
+      "When"
+     ],
+     "rows": [
+      [
+       "Training Needs Analysis report",
+       "End of Week 2"
+      ],
+      [
+       "Competency and skill-gap framework",
+       "Week 3"
+      ],
+      [
+       "Training calendar for the engagement, in a format the hospital can extend quarterly",
+       "Week 1, revised monthly"
+      ],
+      [
+       "New-employee induction programme",
+       "End of Month 1, then delivered to each joining cohort"
+      ],
+      [
+       "Customised training modules, all twelve",
+       "Rolling, one module block ahead of delivery"
+      ],
+      [
+       "Facilitator guides and participant materials",
+       "Issued with each module block; complete set by Week 13"
+      ],
+      [
+       "Assessment and observation instruments (in use from Week 1; consolidated pack in Week 3)",
+       "Week 3, then with each module block"
+      ],
+      [
+       "Attendance and training records",
+       "After every session; consolidated monthly"
+      ],
+      [
+       "Employee feedback analysis",
+       "Monthly"
+      ],
+      [
+       "Monthly training reports",
+       "End of Month 1, Month 2 and Month 3"
+      ],
+      [
+       "Corrective action and reinforcement plans",
+       "Monthly, from the end of Month 1"
+      ],
+      [
+       "Management review presentations",
+       "End of Month 1, end of Month 2 and Week 13"
+      ],
+      [
+       "Training effectiveness dashboard",
+       "First issue at the end of Month 1, updated monthly"
+      ]
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Facilitator guides and participant materials remain available to the hospital for internal reinforcement use after the engagement concludes. This is a considered position rather than an afterthought. The internal trainers developed in Module 11 need the material they were themselves taught from, supervisors need the same job aids their teams are carrying, and induction has to keep running for joiners long after Week 13. Material that leaves with the trainer cannot support any of that."
+    },
+    {
+     "type": "para",
+     "text": "Records and reports are issued in editable working formats so the hospital can fold them into its own quality, HR and accreditation documentation without re-keying. Assessment results and observation notes are shared with the hospital in full, including the results that are unflattering, because a training record that only shows improvement is of no use to a quality team."
+    }
+   ]
+  },
+  {
+   "id": "measurement",
+   "eyebrow": "EVIDENCE",
+   "title": "How Effectiveness Is Measured",
+   "intro": "Effectiveness is measured on four levels, each with its own instrument and its own honest limits. The first three are within Levitatte's control and are reported as fact. The fourth is not, and is reported differently.",
+   "blocks": [
+    {
+     "type": "subhead",
+     "text": "Level 1 \u00b7 Participation And Reaction"
+    },
+    {
+     "type": "para",
+     "text": "Attendance, completion and participant response are recorded for every session. Feedback is read for themes rather than reduced to a single score, because a batch that rates a session highly and then names the same unresolved floor problem three weeks running is telling us something a number cannot. Attendance is reported by department and role group, so that patterns of non-release are visible early enough to correct."
+    },
+    {
+     "type": "subhead",
+     "text": "Level 2 \u00b7 Knowledge Gain"
+    },
+    {
+     "type": "para",
+     "text": "Each module block opens with a short pre-assessment and closes with a post-assessment on the same competencies. The comparison shows what the group knew before and what it knew after, by role group and by topic. Where a topic shows little movement, the design is revisited before that content is delivered to the next batch. This is the most reliable measure we hold and it is also the most limited: knowing the right response and producing it at a busy counter are different achievements."
+    },
+    {
+     "type": "subhead",
+     "text": "Level 3 \u00b7 Behavioural Change"
+    },
+    {
+     "type": "para",
+     "text": "Behaviour is observed in live conditions, not inferred from assessment scores. Using the checklists issued with each module, we observe real interactions at the touchpoints the training addressed: telephone handling, registration, waiting-time communication, billing explanation, attendant interaction and discharge. Observation is conducted at times and in areas the hospital considers appropriate, with clinical care and patient privacy taking precedence at all times. Findings are reported by department, and where a behaviour is not appearing on the floor, the reinforcement plan for that department is adjusted rather than the finding merely repeated."
+    },
+    {
+     "type": "subhead",
+     "text": "Level 4 \u00b7 Organisational Indicators"
+    },
+    {
+     "type": "para",
+     "text": "The fourth level looks at the hospital's own service indicators over the ninety days: complaint records, patient-feedback records, escalation patterns and any internal service metrics the hospital chooses to share. Levitatte neither holds nor audits this data. We report the movement the hospital's own records show, alongside our interpretation of it, and we distinguish clearly between the two."
+    },
+    {
+     "type": "table",
+     "columns": [
+      "Level",
+      "What is measured",
+      "Instrument",
+      "Reported"
+     ],
+     "rows": [
+      [
+       "1 \u00b7 Participation and reaction",
+       "Attendance, completion and participant response to each session",
+       "Attendance register and session feedback form",
+       "Per session, consolidated in the monthly report"
+      ],
+      [
+       "2 \u00b7 Knowledge gain",
+       "Movement between pre- and post-module assessment scores, by role group and topic",
+       "Pre- and post-training assessments for each module block",
+       "Per module block, consolidated monthly"
+      ],
+      [
+       "3 \u00b7 Behavioural change",
+       "Whether the taught behaviour appears in live patient interactions on the floor",
+       "On-the-job observation checklists and supervisor coaching notes",
+       "Monthly, by department and role group"
+      ],
+      [
+       "4 \u00b7 Organisational indicators",
+       "Movement in hospital-held service indicators across the engagement",
+       "Hospital complaint, feedback and escalation records, shared at the hospital's discretion",
+       "Month 2 and Week 13 management reviews, as directional movement only"
+      ]
+     ]
+    },
+    {
+     "type": "para",
+     "text": "On the fourth level we want to be scrupulous, because it is the level on which training proposals most often overreach. Complaint and feedback volumes move for many reasons: staffing levels, occupancy, seasonality, waiting times, infrastructure works, a change in the specialities being run, and changes in how complaints are captured in the first place. A rise in recorded complaints can even indicate that feedback capture has improved, which is a gain being read as a loss. In a ninety-day window, with none of these variables held still, no honest provider can isolate the contribution of training."
+    },
+    {
+     "type": "callout",
+     "text": "Levitatte reports movement. Levitatte does not guarantee it, and does not claim attribution to training alone. Where a level-four indicator moves, favourably or otherwise, it is presented as the hospital's own data with our reading of it, so that the hospital's management can weigh it against everything else it knows about the period."
+    }
+   ]
+  },
+  {
+   "id": "commercials",
+   "eyebrow": "COMMERCIAL TERMS",
+   "title": "Engagement And Commercial Terms",
+   "intro": "The following terms are proposed for the hospital's consideration. They are structured as a single fixed monthly professional fee rather than a per-session or per-participant charge, so that the cost of the programme is known at the outset and does not rise as the hospital nominates more people into it.",
+   "blocks": [
+    {
+     "type": "kv",
+     "rows": [
+      [
+       "Engagement duration",
+       "90 days (approximately 13 weeks)"
+      ],
+      [
+       "Training days",
+       "Every Wednesday, Thursday and Friday"
+      ],
+      [
+       "Session duration",
+       "4 hours per session"
+      ],
+      [
+       "Batch size",
+       "Up to 30 participants per batch"
+      ],
+      [
+       "Sessions in the engagement",
+       "Up to 39 (36 to 39 subject to start date and hospital holidays)"
+      ],
+      [
+       "Facilitator-led hours",
+       "Up to 156 hours (144 to 156)"
+      ],
+      [
+       "Professional fee",
+       "Rs 1,50,000 per month, fixed and inclusive of tax deducted at source"
+      ],
+      [
+       "Tax deducted at source",
+       "Deducted by the hospital under section 194J of the Income-tax Act, 1961 and remitted to the government on Levitatte's behalf"
+      ],
+      [
+       "Net payable per month",
+       "Rs 1,35,000, illustrative at the expected rate of 10%"
+      ],
+      [
+       "GST",
+       "As applicable, additional"
+      ],
+      [
+       "Total engagement value",
+       "Rs 4,50,000 for 90 days, of which Rs 4,05,000 is payable net of TDS at 10%"
+      ]
+     ]
+    },
+    {
+     "type": "subhead",
+     "text": "What The Fixed Fee Covers"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "The full diagnose stage: management discussions, departmental inputs, floor observation and review of the anonymised feedback, complaint and audit material the hospital shares",
+      "Design and customisation of all twelve modules and the new-employee induction programme, written around the hospital's own touchpoints, SOPs and service standards",
+      "Facilitation of up to 39 sessions of four hours each across the ninety days, led by Levitatte",
+      "Facilitator guides, participant workbooks and role-specific job aids for every module, with no separate charge for material development",
+      "Pre- and post-training assessments, observation checklists, attendance records and training documentation",
+      "Employee feedback analysis, monthly training reports and the training effectiveness dashboard",
+      "The reinforcement layer: microlearning inputs, on-the-job observation, supervisor coaching and monthly corrective action plans",
+      "Management review presentations at the end of Month 1, the end of Month 2 and in Week 13"
+     ]
+    },
+    {
+     "type": "para",
+     "text": "The fee is fixed for the ninety days and does not vary with the number of participants nominated, the number of role groups covered or the volume of material produced. Taxes are additional or deducted as applicable, and are set out immediately below. Should anything outside the scope described in this proposal be required, it would be discussed and agreed in writing before any commitment is made."
+    },
+    {
+     "type": "subhead",
+     "text": "Invoicing, Tax And Payment"
+    },
+    {
+     "type": "para",
+     "text": "The professional fee is inclusive of tax deducted at source. The hospital deducts TDS from each monthly invoice and deposits it with the government against Levitatte's PAN, so the amount remitted to Levitatte is the fee net of that deduction. The deduction is not a reduction in the agreed fee and not an additional cost to the hospital: it is income tax paid in advance on Levitatte's behalf, which Levitatte claims as credit against its own liability."
+    },
+    {
+     "type": "table",
+     "columns": [
+      "Item",
+      "Per month",
+      "Across 90 days"
+     ],
+     "rows": [
+      [
+       "Professional fee (gross, contracted)",
+       "Rs 1,50,000",
+       "Rs 4,50,000"
+      ],
+      [
+       "Less tax deducted at source at 10%",
+       "(Rs 15,000)",
+       "(Rs 45,000)"
+      ],
+      [
+       "Payable to Levitatte",
+       "Rs 1,35,000",
+       "Rs 4,05,000"
+      ]
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Deduction is expected at 10% under section 194J of the Income-tax Act, 1961, applied to the professional fee. The hospital's finance team will confirm the section and rate it applies, and the net figures above should be read as illustrative at 10% rather than as fixed amounts. Where GST is applicable it is charged in addition and shown separately on the invoice; TDS is computed on the fee and not on the GST component, so GST does not change the amount Levitatte retains. Invoices are raised monthly in arrears. We would ask the hospital to issue the quarterly TDS certificate in Form 16A so the credit can be claimed in the relevant assessment year."
+    },
+    {
+     "type": "subhead",
+     "text": "Value In Context"
+    },
+    {
+     "type": "para",
+     "text": "A fixed monthly fee is easier to judge when it is expressed per hour of facilitation and per hour of employee learning. At the proposed cadence of three four-hour sessions each week, the engagement delivers up to 156 facilitator-led hours across the ninety days. Against a batch of thirty, the same calendar produces 1,170 participant-sessions and 4,680 participant-training-hours. Both views are set out below so the hospital can weigh the investment on whichever basis it prefers."
+    },
+    {
+     "type": "table",
+     "columns": [
+      "Measure",
+      "Value"
+     ],
+     "rows": [
+      [
+       "Total engagement value",
+       "Rs 4,50,000 (before TDS)"
+      ],
+      [
+       "Facilitator-led hours",
+       "Up to 156"
+      ],
+      [
+       "Cost per facilitator-led hour",
+       "Approximately Rs 2,900"
+      ],
+      [
+       "Participant-sessions",
+       "1,170"
+      ],
+      [
+       "Participant-training-hours",
+       "4,680"
+      ],
+      [
+       "Cost per participant-training-hour",
+       "Approximately Rs 96"
+      ]
+     ]
+    },
+    {
+     "type": "para",
+     "text": "These unit figures are computed on the gross professional fee, before tax deducted at source, and are derived from the stated cadence at full utilisation of a 30-participant batch. If the session count falls to 36 because of the start date or hospital holidays, the cost per facilitator-led hour is approximately Rs 3,125, participant-training-hours fall to 4,320, and the cost per participant-training-hour rises to approximately Rs 104. The monthly fee does not change in either case. We would rather state the range openly than quote the most favourable figure and leave the arithmetic to be discovered later."
+    },
+    {
+     "type": "subhead",
+     "text": "Batch Nomination"
+    },
+    {
+     "type": "para",
+     "text": "Two nomination models are available, and they produce genuinely different results. The first is a continuous core batch: up to thirty participants taken through the full arc from Module 1 to Module 9. This gives depth, a shared vocabulary and a group that has practised together, which matters most at Module 7, where service recovery and de-escalation depend on active listening, emotional regulation and agreed service standards already being in place with the same people. The second is role-based batching, where different role groups rotate in by module block. This reaches more employees, but each individual receives less of the sequence, and the sequencing logic weakens because the later modules can no longer assume the earlier ones have landed."
+    },
+    {
+     "type": "para",
+     "text": "Our recommendation is a hybrid, and we would put it forward for discussion rather than assume it. A continuous core batch of up to thirty carries the full arc through Weeks 1 to 10. Module 6, the patient-journey touchpoint module, is rotated by role so that front office, patient relations, billing and nursing support each work their own touchpoints in detail rather than sitting through one another's. Module 10 is delivered to a separately nominated supervisory and departmental-head audience, and Module 11 to a separately selected internal-trainer group, both of which are different rooms with different purposes. Total unique participants therefore depends on the nomination model adopted, and is fixed jointly with the hospital at kickoff once the batch composition is confirmed."
+    }
+   ]
+  },
+  {
+   "id": "assumptions",
+   "eyebrow": "WHAT WE NEED",
+   "title": "What We Need From The Hospital",
+   "intro": "A programme of this density over ninety days rests on a small number of practical commitments from the hospital. None of them are onerous. All of them are load-bearing, and it is more useful to state them at proposal stage than to discover them in Week 4.",
+   "blocks": [
+    {
+     "type": "bullets",
+     "items": [
+      "A single nominated point of contact from Human Resources or Learning and Development, empowered to confirm nominations, calendars and room bookings without a further approval loop",
+      "Confirmed batch nominations at least one week ahead of each module block, by name rather than by headcount, so that materials and assessments can be prepared for the actual group",
+      "A training room with projection, seating for up to thirty in a layout that permits role plays and group work, and a whiteboard or flip chart",
+      "Participants released for the full four hours, with duty rosters adjusted in advance so that a batch is not depleted halfway through a session",
+      "Access to anonymised patient-feedback themes, complaint records and audit observations, so that case studies are drawn from the hospital's own situations rather than from generic material",
+      "Permission for on-the-job observation during live shifts, at times and in areas the hospital considers appropriate, with clinical care and patient privacy taking precedence at all times",
+      "Nominated hospital subject-matter experts for clinical, statutory and policy-specific content, and their availability during the design stage",
+      "The hospital's own SOPs, service standards, patient-rights statement and internal escalation matrix where these exist, so that the training reinforces the hospital's language instead of introducing a parallel one",
+      "The hospital's TAN and confirmation of the TDS section and rate it will apply, together with the quarterly TDS certificate in Form 16A, and the correct legal entity name and billing address for invoicing"
+     ]
+    },
+    {
+     "type": "para",
+     "text": "On rescheduling, hospital operations take precedence over the training calendar and we plan for that rather than resist it. Clinical emergencies, accreditation visits, occupancy pressure and public holidays will occasionally make a scheduled session impossible. Where a session cannot proceed, Levitatte will offer alternative slots within the same or the following week, subject to facilitator availability. Where a session genuinely cannot be accommodated inside the ninety days, it is recorded openly in that month's training report and the engagement total moves towards the lower end of the 36 to 39 range. The monthly professional fee is fixed and does not vary with the number of sessions delivered in a given week, which is why nomination and release discipline matter more than any clause could."
+    },
+    {
+     "type": "para",
+     "text": "On confidentiality, all hospital information is treated as confidential. Patient-identifiable information is neither required nor wanted: feedback themes, complaints and case material are anonymised before they enter any training document, and where anonymisation appears incomplete we will return the material rather than use it. Hospital data, internal documents, assessment results and individual participant scores will not be shared outside the engagement, nor used in Levitatte's own marketing, without the hospital's written permission. We are willing to sign the hospital's standard confidentiality undertaking before the diagnose stage begins."
+    }
+   ]
+  },
+  {
+   "id": "outcomes",
+   "eyebrow": "EXPECTED OUTCOMES",
+   "title": "Expected Outcomes",
+   "intro": "The following are what this programme is designed to support and build. They are not guarantees, and we will not present them as such. Behavioural change in a hospital depends on reinforcement by the hospital's own supervisors, on nomination and release discipline, and on conditions on the floor that no training provider controls. What Levitatte commits to is the design, the facilitation, the measurement and honest reporting of what the measurement shows. We would be cautious of any provider who offered guaranteed figures for behavioural change over ninety days.",
+   "blocks": [
+    {
+     "type": "bullets",
+     "items": [
+      "More confident and capable employees, able to hold a difficult patient interaction without escalating it unnecessarily or freezing in it",
+      "A consistent patient experience, so that the standard a patient meets does not depend on which shift, which counter or which department they happen to reach",
+      "Clearer communication with patients and attendants, particularly on the subjects that generate the most friction: waiting times, admission steps, departmental routing and billing",
+      "Better complaint handling and service recovery, with fewer situations hardening because the first response was defensive",
+      "Improved teamwork between departments, supported by cleaner handovers, an internal-customer mindset and disciplined escalation",
+      "Stronger ownership and accountability at individual level, so that a problem is carried to a resolution rather than passed along",
+      "Better adherence to hospital processes, because staff understand the reason behind a step and not only the step itself",
+      "More effective supervisors and managers, who coach and develop rather than only allocate and monitor",
+      "Reduced recurrence of service-related issues, addressed at cause through the monthly corrective action and reinforcement plans",
+      "A sustainable culture of continuous learning, carried forward by the hospital's own internal trainers after the engagement concludes"
+     ]
+    },
+    {
+     "type": "para",
+     "text": "These outcomes are sequenced in the curriculum rather than hoped for. Confidence is built before complexity is introduced, service standards are agreed before recovery from their failure is taught, supervisors are developed after their teams so that they know the standard they are being asked to uphold, and internal trainers are developed last so that the hospital retains the capability rather than renting it. The programme's design is the argument for its outcomes. Its measurement is how the hospital judges whether the argument held."
+    }
+   ]
+  },
+  {
+   "id": "closing",
+   "eyebrow": "IN CLOSING",
+   "title": "Developing People Who Care For People",
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Hospital excellence depends not only on infrastructure and medical expertise, but also on the behaviour, communication and coordination of every employee. A patient's judgement of a hospital is formed in places where no clinical decision is being made: on the first telephone call, at the registration counter, in the corridor while being guided to a department, during an unexplained wait, at the billing desk, and in the conversation with an anxious relative who has not been told what happens next. Those moments are handled by people whose names the patient will never learn, and they are remembered long after the treatment itself has been absorbed as expected."
+    },
+    {
+     "type": "para",
+     "text": "That is the ground this programme works on. It does not touch clinical competence, which the hospital's own specialists own entirely. It addresses everything that surrounds clinical competence and determines whether patients and their families experience it as clarity, compassion and confidence, or as something less than the care they actually received."
+    },
+    {
+     "type": "para",
+     "text": "Levitatte Learning and Development brings to this proposal a founder with more than twenty-five years in behavioural, communication and service capability building, grounded in NLP and organisational behavioural psychology, with prior healthcare engagements at Fortis and Cloud9 Hospitals. Our approach is practical rather than theoretical. Employees are not simply told what to do, they practise how to do it, and they are then observed doing it in live conditions."
+    },
+    {
+     "type": "pullquote",
+     "text": "Competent. Compassionate. Confident. Accountable. Patient-First."
+    },
+    {
+     "type": "para",
+     "text": "Let us build a workforce that reflects the standard of care your hospital promises."
+    },
+    {
+     "type": "para",
+     "text": "Should Dr. Rela Institute & Medical Centre wish to take this forward, the next step is a short scoping conversation with Human Resources and the departments concerned, after which a start date, the batch nomination model and the Week 1 calendar can be fixed. We would be glad to walk the hospital's team through the curriculum sequence and the measurement framework in person before any commitment is made."
+    },
+    {
+     "type": "kv",
+     "rows": [
+      [
+       "Contact",
+       "Kavitha Pillai, Managing Director & Head of Training"
+      ],
+      [
+       "Email",
+       "kavitha.pillai@levitatte.com"
+      ],
+      [
+       "Telephone",
+       "+91 7411 099 183"
+      ],
+      [
+       "Website",
+       "www.levitatte.com"
+      ],
+      [
+       "Office",
+       "Bengaluru, Karnataka, India"
+      ]
+     ]
+    },
+    {
+     "type": "callout",
+     "text": "Clinical, statutory and policy-specific training content will be developed or delivered in coordination with authorised hospital representatives and subject-matter experts."
+    }
+   ]
+  }
+ ]
+}
